@@ -1,0 +1,774 @@
+{
+  "items": [
+    {
+      "description": "Please be respectful of the people who have created these resources. If you want to use these materials in your own courses, pay attention to the licenses in each repo, and ask for permission and give credit appropriately.",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Introduction to Chemical Engineering / Material & Energy Balances",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CHBE 241 Material and Energy Balances",
+              "description": "University of British Columbia, Prof. Jonathan Verrett. And related resources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "HTML",
+                "last_commit": "2021-07-14T14:13:02Z",
+                "owner": "OpenChemE",
+                "repo": "CHBE241",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ChEn-1070 Introduction to Chemical Engineering",
+              "description": "UMass Lowell; Fall 2019; Profs. Manohar and de Almeida.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-05-11T16:49:12Z",
+                "owner": "dpploy",
+                "repo": "ct-100",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CHBE220 Founding Principles in Chemical and Biological Engineering I",
+              "description": "University of British Columbia.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2020-08-10T21:46:00Z",
+                "owner": "OpenChemE",
+                "repo": "CHBE220-OER-Dev",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CBE20255 - Introduction to Chemical Engineering",
+              "description": "University of Notre Dame, Prof. William Schneider. Additional version available from Prof. Jeffrey Kantor.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TeX",
+                "last_commit": "2020-12-07T12:21:47Z",
+                "owner": "wmfschneider",
+                "repo": "CBE20255",
+                "stars": 1
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Computational / Numerical / Math Methods / AI / ML",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Python for Chemical Engineers",
+              "description": "CAChemE",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2016-09-27T17:03:33Z",
+                "owner": "CAChemE",
+                "repo": "Python-Chemical-Engineers",
+                "stars": 93
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Numerical Methods and Statistics",
+              "description": "University of Rochester, Prof. Andrew White.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2020-09-01T20:57:14Z",
+                "owner": "whitead",
+                "repo": "numerical_stats",
+                "stars": 67
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ChEn-3170 Computational Methods in Chemical Engineering",
+              "description": "UMass Lowell; Spring 2022; Prof. Valmor F. de Almeida.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-02-08T20:48:49Z",
+                "owner": "dpploy",
+                "repo": "ct-300",
+                "stars": 45
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AI for Chemical Engineers",
+              "description": "University of Buffalo, Prof. Kaihang Shi.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-03-16T05:30:04Z",
+                "owner": "KaihangShi",
+                "repo": "AI-for-Chemical-Engineers_UB",
+                "stars": 44
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MLxChE: Intro to Machine Learning for Chemical Engineers",
+              "description": "University of the Philippines, Diliman; Prof. Karl Ezra Pilario",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-02-06T02:39:52Z",
+                "owner": "kspilario",
+                "repo": "MLxChE",
+                "stars": 32
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Machine Learning for Molecular Engineering (ML4MolEng)",
+              "description": "MIT; Prof. Connor Coley, Prof. Rafael Gomez-Bombarelli, Prof. Ernest Fraenkel, Prof. Joey Davis, Prof. Sergey Ovchinnikov",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Older iterations: Spring 2021",
+                  "description": ", Spring 2022, Spring 2023",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2021-05-15T06:17:58Z",
+                    "owner": "wwang2",
+                    "repo": "ML4MolEng",
+                    "stars": 15
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-05-14T23:38:15Z",
+                "owner": "coleygroup",
+                "repo": "ML4MolEng",
+                "stars": 31
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "06-681 Data Science and Machine Learning in Chemical Engineering",
+              "description": "Carnegie Mellon University, Prof. John Kitchin, Spring 2020.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2020-05-27T20:57:05Z",
+                "owner": "jkitchin",
+                "repo": "s20-06681",
+                "stars": 28
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "06-262 Math Methods in Chemical Engineering",
+              "description": "Carnegie Mellon University, Prof. Zachary Ulissi. ODE's, linear algebra, PDEs, stats in the form of jupyter notebooks. (Spring 2019 version also available.)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-10-19T19:29:57Z",
+                "owner": "ulissigroup",
+                "repo": "math-methods-chemical-engineering",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CBE 512: Machine Learning in Chemical Science and Engineering",
+              "description": "Princeton University; Prof. Michael Webb",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-10-02T19:07:30Z",
+                "owner": "webbtheosim",
+                "repo": "CBE512-MLinChmSciEng",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "06-623 Mathematical Modeling of Chemical Engineering Processes",
+              "description": "Carnegie Mellon University, Prof. John Kitchin, Fall 2021. Fall 2019 and Fall 2018 versions also available.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-06-06T16:07:58Z",
+                "owner": "jkitchin",
+                "repo": "f21-06623",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "06-325 Numerical Methods and ML for ChE",
+              "description": "Carnegie Mellon University, Prof. Zachary Ulissi, Fall 2022.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-10-13T15:16:22Z",
+                "owner": "ulissigroup",
+                "repo": "F22-06-325",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "06-681 Data Visualization and Modeling",
+              "description": "Carnegie Mellon University, Prof. John Kitchin, Spring 2022.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2021-12-19T15:35:33Z",
+                "owner": "jkitchin",
+                "repo": "s22-06681",
+                "stars": 5
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Thermodynamics",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CBE60553 - Advanced Chemical Engineering Thermodynamics",
+              "description": "University of Notre Dame, Prof. William Schneider.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "HTML",
+                "last_commit": "2017-12-09T21:46:11Z",
+                "owner": "wmfschneider",
+                "repo": "CBE60553",
+                "stars": 25
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Chemical Kinetics & Reactor Engineering/Design",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CHME4510 Chemical Engineering Kinetics and Reactor Design",
+              "description": "Northeastern University, Prof. Richard West.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-01-10T14:32:41Z",
+                "owner": "rwest",
+                "repo": "CHME4510",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CBE 504 Chemical Reaction Engineering",
+              "description": "(graduate-level course) - Princeton University, Prof. Andrew Rosen, Fall 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Typst",
+                "last_commit": "2026-07-08T02:04:30Z",
+                "owner": "Andrew-S-Rosen",
+                "repo": "cbe504",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "06-364 Chemical and Reaction Engineering",
+              "description": "Carnegie Mellon University, Prof. John Kitchin, Spring 2017.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2017-05-09T11:59:17Z",
+                "owner": "jkitchin",
+                "repo": "s17-06364",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CBE60546 Advanced Chemical Reaction Engineering",
+              "description": "University of Notre Dame, Prof. William Schneider.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-12-22T17:29:32Z",
+                "owner": "wmfschneider",
+                "repo": "CBE60546",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CHBE 355 Kinetics and Reactor Design",
+              "description": "University of British Columbia. (Winter 2018 tutorials also available).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2019-01-25T06:08:38Z",
+                "owner": "OpenChemE",
+                "repo": "Tutorials-2018W2",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "06-625 Chemical and Reactive Systems",
+              "description": "Carnegie Mellon University, Prof. John Kitchin, Fall 2016. (Fall 2015 version also available).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TeX",
+                "last_commit": "2016-12-15T13:14:56Z",
+                "owner": "jkitchin",
+                "repo": "f16-06625",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CHME7340 Chemical Engineering Kinetics and Reactor Design (Grad)",
+              "description": "Northeastern University, Prof. Richard West.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2018-01-25T05:11:49Z",
+                "owner": "rwest",
+                "repo": "CHME7340",
+                "stars": 2
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Process Control",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CBE30338 Chemical Process Control",
+              "description": "University of Notre Dame, Prof. Jeffrey Kantor. Integrates materials from previous repos for CBE30338 and CBE32338. Spring 2020 and 2021 versions also available.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-02-27T14:01:05Z",
+                "owner": "jckantor",
+                "repo": "cbe30338-book",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CHBE 356 Process Dynamics and Control",
+              "description": "University of British Columbia. Winter 2018 tutorials and GitHub also available.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2019-01-25T06:08:38Z",
+                "owner": "OpenChemE",
+                "repo": "Tutorials-2018W2",
+                "stars": 7
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Laboratory",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CBE 61622 Laboratory Measurement and Instrumentation",
+              "description": "University of Notre Dame, Prof. Jeffrey Kantor. (preliminary version)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-01-22T13:12:18Z",
+                "owner": "jckantor",
+                "repo": "cbe61622",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CBE 31358 Chemical Engineering Laboratory I",
+              "description": "University of Notre Dame, Prof. Jeffrey Kantor.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-03-15T00:53:15Z",
+                "owner": "jckantor",
+                "repo": "cbe31358-book",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ChEn-3150 Unit Operations Laboratory",
+              "description": "UMass Lowell; Fall 2020; Profs. Keyvani and de Almeida.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-03-06T21:47:11Z",
+                "owner": "dpploy",
+                "repo": "chen-3150",
+                "stars": 0
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Other",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CBE40455 Process Operations",
+              "description": "University of Notre Dame, Prof. Jeffrey Kantor. Previous version from 2020. Other version also available.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-05-14T12:56:55Z",
+                "owner": "jckantor",
+                "repo": "CBE40455",
+                "stars": 43
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CBE60547 Computational Chemistry",
+              "description": "University of Notre Dame, Prof. William Schneider. Previous versions available from 2015, 2017, and 2019.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Mathematica",
+                "last_commit": "2019-12-09T17:45:35Z",
+                "owner": "wmfschneider",
+                "repo": "CBE60547",
+                "stars": 20
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Data Driven Process Systems Engineering",
+              "description": "Georgia Tech, Prof. Fani Boukouvala.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-04-27T20:06:06Z",
+                "owner": "DDPSE",
+                "repo": "GT_DataDrivenPSE_Course",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CBE30324 Physical Chemistry for Chemical Engineers",
+              "description": "University of Notre Dame, Prof. William Schneider. Additional version also available.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-05-03T16:05:48Z",
+                "owner": "wmfschneider",
+                "repo": "CHE30324",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "06-640 Molecular Simulation",
+              "description": "Carnegie Mellon University, Prof. John Kitchin, Spring 2016. Older material also available.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "HTML",
+                "last_commit": "2016-07-21T00:24:30Z",
+                "owner": "jkitchin",
+                "repo": "s16-06640",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CBE20290 Career Choices for Chemical Engineers",
+              "description": "University of Notre Dame, Prof. William Schneider.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TeX",
+                "last_commit": "2023-01-26T18:21:26Z",
+                "owner": "wmfschneider",
+                "repo": "CBE20290",
+                "stars": 0
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Courses"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Clapeyron.jl",
+          "description": "Julia package for thermodynamic property calculations / equations of state.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Julia",
+            "last_commit": "2026-08-13T03:31:58Z",
+            "owner": "ClapeyronThermo",
+            "repo": "Clapeyron.jl",
+            "stars": 289
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chemics",
+          "description": "Python package for chemistry and chemical engineering applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-10T14:52:52Z",
+            "owner": "wigging",
+            "repo": "chemics",
+            "stars": 209
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pychemqt",
+          "description": "free software tool for calculation and design of unit operations in chemical engineering.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-19T19:20:07Z",
+            "owner": "jjgomera",
+            "repo": "pychemqt",
+            "stars": 181
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpSim",
+          "description": "open source Chemical Engineering Process Simulator with a user friendly drag-and-drop graphical user interface and an underlying high performance simulation engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Pascal",
+            "last_commit": "2019-08-13T08:48:07Z",
+            "owner": "opsim",
+            "repo": "opsim",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Process Dynamics Engine",
+          "description": "online, real-time simulator for process control models described by transfer functions or state space representations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-02-16T02:02:33Z",
+            "owner": "OpenChemE",
+            "repo": "Process-Dynamics-Engine",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChemEng Solved",
+          "description": "Classic problems in chemical engineering solved with matlab.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2026-02-26T16:51:30Z",
+            "owner": "asanet",
+            "repo": "chemeng-solved",
+            "stars": 24
+          }
+        }
+      ],
+      "title": "Software and Packages"
+    },
+    {
+      "description": "People and organizations on GitHub who have multiple repositories related to chemical engineering courses.",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Computer Aided Chemical Engineering (CAChemE)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "learn",
+              "description": "educational resources for chemical and process engineering written in Python.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2021-11-27T16:06:07Z",
+                "owner": "CAChemE",
+                "repo": "learn",
+                "stars": 123
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Open ChemE",
+          "description": "(University of British Columbia)",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Computational Methods",
+              "description": "essential python functions for numerical techniques such as root finding, solving ODEs and optimization that are the most commonly used functions by undergraduate students in CHBE",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2021-02-12T04:17:57Z",
+                "owner": "OpenChemE",
+                "repo": "computational-methods",
+                "stars": 5
+              }
+            }
+          ]
+        }
+      ],
+      "title": "People and Organizations on GitHub"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "#chemical-engineering",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "#process-simulation",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "#chemistry",
+          "description": null,
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "#cheminformatics",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Related GitHub Topics"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "awesome-python-chemistry",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-09-21T08:25:01Z",
+            "owner": "lmmentel",
+            "repo": "awesome-python-chemistry",
+            "stars": 1431
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-cheminformatics",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-03-15T00:55:18Z",
+            "owner": "hsiaoyi0504",
+            "repo": "awesome-cheminformatics",
+            "stars": 879
+          }
+        }
+      ],
+      "title": "Related Awesome Lists"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T09:48:44.569Z",
+    "original_repository": "kevingreenman/awesome-chemical-engineering-education",
+    "original_repository_sha": "31a54f220ab31da3c71832f41e8347ce4fdd29d6",
+    "enhanced_repository": "enhansome/enhansome-chemical-engineering-education",
+    "enhanced_repository_description": null,
+    "title": "Awesome Chemical Engineering Education with stars"
+  }
+}
