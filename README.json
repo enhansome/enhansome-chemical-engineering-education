@@ -110,7 +110,7 @@
                 "last_commit": "2026-02-08T20:48:49Z",
                 "owner": "dpploy",
                 "repo": "ct-300",
-                "stars": 45
+                "stars": 46
               }
             },
             {
@@ -298,20 +298,6 @@
             },
             {
               "node_type": "item",
-              "title": "CBE 504 Chemical Reaction Engineering",
-              "description": "(graduate-level course) - Princeton University, Prof. Andrew Rosen, Fall 2024.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Typst",
-                "last_commit": "2026-07-08T02:04:30Z",
-                "owner": "Andrew-S-Rosen",
-                "repo": "cbe504",
-                "stars": 15
-              }
-            },
-            {
-              "node_type": "item",
               "title": "06-364 Chemical and Reaction Engineering",
               "description": "Carnegie Mellon University, Prof. John Kitchin, Spring 2017.",
               "children": [],
@@ -379,6 +365,12 @@
                 "repo": "CHME7340",
                 "stars": 2
               }
+            },
+            {
+              "node_type": "item",
+              "title": "CBE 504 Chemical Reaction Engineering",
+              "description": "(graduate-level course) - Princeton University, Prof. Andrew Rosen, Fall 2024.",
+              "children": []
             }
           ]
         },
@@ -571,7 +563,7 @@
           "repo_info": {
             "archived": false,
             "language": "Julia",
-            "last_commit": "2026-08-15T05:57:04Z",
+            "last_commit": "2026-08-15T22:59:38Z",
             "owner": "ClapeyronThermo",
             "repo": "Clapeyron.jl",
             "stars": 291
@@ -756,7 +748,7 @@
             "last_commit": "2024-03-15T00:55:18Z",
             "owner": "hsiaoyi0504",
             "repo": "awesome-cheminformatics",
-            "stars": 879
+            "stars": 880
           }
         }
       ],
@@ -764,7 +756,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T09:03:59.938Z",
+    "last_updated": "2026-08-16T09:09:14.750Z",
     "original_repository": "kevingreenman/awesome-chemical-engineering-education",
     "original_repository_sha": "31a54f220ab31da3c71832f41e8347ce4fdd29d6",
     "enhanced_repository": "enhansome/enhansome-chemical-engineering-education",
