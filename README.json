@@ -15,6 +15,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 93812351,
                 "language": "HTML",
                 "last_commit": "2021-07-14T14:13:02Z",
                 "owner": "OpenChemE",
@@ -29,6 +30,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 166510635,
                 "language": "Jupyter Notebook",
                 "last_commit": "2026-05-11T16:49:12Z",
                 "owner": "dpploy",
@@ -43,6 +45,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 256778099,
                 "language": "Jupyter Notebook",
                 "last_commit": "2020-08-10T21:46:00Z",
                 "owner": "OpenChemE",
@@ -57,6 +60,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 319306933,
                 "language": "TeX",
                 "last_commit": "2020-12-07T12:21:47Z",
                 "owner": "wmfschneider",
@@ -78,6 +82,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 46379340,
                 "language": "Python",
                 "last_commit": "2016-09-27T17:03:33Z",
                 "owner": "CAChemE",
@@ -92,6 +97,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 51833329,
                 "language": "Jupyter Notebook",
                 "last_commit": "2020-09-01T20:57:14Z",
                 "owner": "whitead",
@@ -106,6 +112,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 148253943,
                 "language": "Jupyter Notebook",
                 "last_commit": "2026-02-08T20:48:49Z",
                 "owner": "dpploy",
@@ -120,6 +127,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1043924924,
                 "language": "Jupyter Notebook",
                 "last_commit": "2026-03-16T05:30:04Z",
                 "owner": "KaihangShi",
@@ -134,6 +142,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 758368884,
                 "language": "Jupyter Notebook",
                 "last_commit": "2026-02-06T02:39:52Z",
                 "owner": "kspilario",
@@ -153,6 +162,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 339218329,
                     "language": "Jupyter Notebook",
                     "last_commit": "2021-05-15T06:17:58Z",
                     "owner": "wwang2",
@@ -163,6 +173,7 @@
               ],
               "repo_info": {
                 "archived": false,
+                "id": 746207110,
                 "language": "Jupyter Notebook",
                 "last_commit": "2026-05-14T23:38:15Z",
                 "owner": "coleygroup",
@@ -177,6 +188,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 265028162,
                 "language": "Jupyter Notebook",
                 "last_commit": "2020-05-27T20:57:05Z",
                 "owner": "jkitchin",
@@ -191,6 +203,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 263019288,
                 "language": "Jupyter Notebook",
                 "last_commit": "2022-10-19T19:29:57Z",
                 "owner": "ulissigroup",
@@ -205,6 +218,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 688958169,
                 "language": "Jupyter Notebook",
                 "last_commit": "2025-10-02T19:07:30Z",
                 "owner": "webbtheosim",
@@ -219,6 +233,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 400298708,
                 "language": "Jupyter Notebook",
                 "last_commit": "2022-06-06T16:07:58Z",
                 "owner": "jkitchin",
@@ -233,6 +248,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 514371039,
                 "language": "Jupyter Notebook",
                 "last_commit": "2022-10-13T15:16:22Z",
                 "owner": "ulissigroup",
@@ -247,6 +263,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 439868830,
                 "language": "Jupyter Notebook",
                 "last_commit": "2021-12-19T15:35:33Z",
                 "owner": "jkitchin",
@@ -268,6 +285,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 41817372,
                 "language": "HTML",
                 "last_commit": "2017-12-09T21:46:11Z",
                 "owner": "wmfschneider",
@@ -289,6 +307,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 49836371,
                 "language": "Jupyter Notebook",
                 "last_commit": "2024-01-10T14:32:41Z",
                 "owner": "rwest",
@@ -303,6 +322,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 79727578,
                 "language": "Jupyter Notebook",
                 "last_commit": "2017-05-09T11:59:17Z",
                 "owner": "jkitchin",
@@ -317,6 +337,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 395483157,
                 "language": "Jupyter Notebook",
                 "last_commit": "2025-12-22T17:29:32Z",
                 "owner": "wmfschneider",
@@ -331,6 +352,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 151777209,
                 "language": "Jupyter Notebook",
                 "last_commit": "2019-01-25T06:08:38Z",
                 "owner": "OpenChemE",
@@ -345,6 +367,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 63949402,
                 "language": "TeX",
                 "last_commit": "2016-12-15T13:14:56Z",
                 "owner": "jkitchin",
@@ -359,18 +382,13 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 117887985,
                 "language": "Jupyter Notebook",
                 "last_commit": "2018-01-25T05:11:49Z",
                 "owner": "rwest",
                 "repo": "CHME7340",
                 "stars": 2
               }
-            },
-            {
-              "node_type": "item",
-              "title": "CBE 504 Chemical Reaction Engineering",
-              "description": "(graduate-level course) - Princeton University, Prof. Andrew Rosen, Fall 2024.",
-              "children": []
             }
           ]
         },
@@ -386,6 +404,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 442286674,
                 "language": "Jupyter Notebook",
                 "last_commit": "2024-02-27T14:01:05Z",
                 "owner": "jckantor",
@@ -400,6 +419,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 151777209,
                 "language": "Jupyter Notebook",
                 "last_commit": "2019-01-25T06:08:38Z",
                 "owner": "OpenChemE",
@@ -421,6 +441,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 300642709,
                 "language": "Jupyter Notebook",
                 "last_commit": "2023-01-22T13:12:18Z",
                 "owner": "jckantor",
@@ -435,6 +456,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 456763667,
                 "language": "Jupyter Notebook",
                 "last_commit": "2022-03-15T00:53:15Z",
                 "owner": "jckantor",
@@ -449,6 +471,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 266580892,
                 "language": "Jupyter Notebook",
                 "last_commit": "2024-03-06T21:47:11Z",
                 "owner": "dpploy",
@@ -470,6 +493,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 16892958,
                 "language": "Jupyter Notebook",
                 "last_commit": "2023-05-14T12:56:55Z",
                 "owner": "jckantor",
@@ -484,6 +508,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 204517969,
                 "language": "Mathematica",
                 "last_commit": "2019-12-09T17:45:35Z",
                 "owner": "wmfschneider",
@@ -498,6 +523,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 495553099,
                 "language": "Jupyter Notebook",
                 "last_commit": "2023-04-27T20:06:06Z",
                 "owner": "DDPSE",
@@ -512,6 +538,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 744586041,
                 "language": "Jupyter Notebook",
                 "last_commit": "2025-05-03T16:05:48Z",
                 "owner": "wmfschneider",
@@ -526,6 +553,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 49031550,
                 "language": "HTML",
                 "last_commit": "2016-07-21T00:24:30Z",
                 "owner": "jkitchin",
@@ -540,6 +568,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 334774901,
                 "language": "TeX",
                 "last_commit": "2023-01-26T18:21:26Z",
                 "owner": "wmfschneider",
@@ -553,7 +582,7 @@
       "title": "Courses"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -562,8 +591,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 267659508,
             "language": "Julia",
-            "last_commit": "2026-08-18T06:22:57Z",
+            "last_commit": "2026-08-18T21:05:34Z",
             "owner": "ClapeyronThermo",
             "repo": "Clapeyron.jl",
             "stars": 292
@@ -576,6 +606,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 150643772,
             "language": "Python",
             "last_commit": "2024-03-10T14:52:52Z",
             "owner": "wigging",
@@ -590,6 +621,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19784390,
             "language": "Python",
             "last_commit": "2026-06-19T19:20:07Z",
             "owner": "jjgomera",
@@ -604,6 +636,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 107535608,
             "language": "Pascal",
             "last_commit": "2019-08-13T08:48:07Z",
             "owner": "opsim",
@@ -618,6 +651,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 148880591,
             "language": "Python",
             "last_commit": "2019-02-16T02:02:33Z",
             "owner": "OpenChemE",
@@ -632,6 +666,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 139187814,
             "language": "MATLAB",
             "last_commit": "2026-02-26T16:51:30Z",
             "owner": "asanet",
@@ -657,6 +692,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 31069094,
                 "language": "Jupyter Notebook",
                 "last_commit": "2021-11-27T16:06:07Z",
                 "owner": "CAChemE",
@@ -678,6 +714,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 295622278,
                 "language": "Jupyter Notebook",
                 "last_commit": "2021-02-12T04:17:57Z",
                 "owner": "OpenChemE",
@@ -691,37 +728,7 @@
       "title": "People and Organizations on GitHub"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "#chemical-engineering",
-          "description": null,
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "#process-simulation",
-          "description": null,
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "#chemistry",
-          "description": null,
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "#cheminformatics",
-          "description": null,
-          "children": []
-        }
-      ],
-      "title": "Related GitHub Topics"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -730,6 +737,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80406867,
             "language": null,
             "last_commit": "2025-09-21T08:25:01Z",
             "owner": "lmmentel",
@@ -744,6 +752,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73977763,
             "language": null,
             "last_commit": "2024-03-15T00:55:18Z",
             "owner": "hsiaoyi0504",
@@ -756,7 +765,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T09:15:32.674Z",
+    "last_updated": "2026-08-19T09:17:09.157Z",
     "original_repository": "kevingreenman/awesome-chemical-engineering-education",
     "original_repository_sha": "31a54f220ab31da3c71832f41e8347ce4fdd29d6",
     "enhanced_repository": "enhansome/enhansome-chemical-engineering-education",
