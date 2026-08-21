@@ -593,10 +593,10 @@
             "archived": false,
             "id": 267659508,
             "language": "Julia",
-            "last_commit": "2026-08-19T21:43:53Z",
+            "last_commit": "2026-08-20T23:42:08Z",
             "owner": "ClapeyronThermo",
             "repo": "Clapeyron.jl",
-            "stars": 292
+            "stars": 290
           }
         },
         {
@@ -626,7 +626,7 @@
             "last_commit": "2026-06-19T19:20:07Z",
             "owner": "jjgomera",
             "repo": "pychemqt",
-            "stars": 181
+            "stars": 180
           }
         },
         {
@@ -757,7 +757,7 @@
             "last_commit": "2024-03-15T00:55:18Z",
             "owner": "hsiaoyi0504",
             "repo": "awesome-cheminformatics",
-            "stars": 880
+            "stars": 881
           }
         }
       ],
@@ -765,7 +765,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T09:18:20.510Z",
+    "last_updated": "2026-08-21T09:20:30.856Z",
     "original_repository": "kevingreenman/awesome-chemical-engineering-education",
     "original_repository_id": 651769960,
     "original_repository_sha": "31a54f220ab31da3c71832f41e8347ce4fdd29d6",
