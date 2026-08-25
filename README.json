@@ -409,7 +409,7 @@
                 "last_commit": "2024-02-27T14:01:05Z",
                 "owner": "jckantor",
                 "repo": "cbe30338-book",
-                "stars": 14
+                "stars": 15
               }
             },
             {
@@ -593,7 +593,7 @@
             "archived": false,
             "id": 267659508,
             "language": "Julia",
-            "last_commit": "2026-08-24T05:58:53Z",
+            "last_commit": "2026-08-25T01:00:25Z",
             "owner": "ClapeyronThermo",
             "repo": "Clapeyron.jl",
             "stars": 291
@@ -742,7 +742,7 @@
             "last_commit": "2025-09-21T08:25:01Z",
             "owner": "lmmentel",
             "repo": "awesome-python-chemistry",
-            "stars": 1433
+            "stars": 1434
           }
         },
         {
@@ -765,7 +765,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:32:17.748Z",
+    "last_updated": "2026-08-25T06:25:26.090Z",
     "original_repository": "kevingreenman/awesome-chemical-engineering-education",
     "original_repository_id": 651769960,
     "original_repository_sha": "31a54f220ab31da3c71832f41e8347ce4fdd29d6",
