@@ -154,7 +154,7 @@ People and organizations on GitHub who have multiple repositories related to che
 ## Related Awesome Lists
 
 * [awesome-python-chemistry](https://github.com/lmmentel/awesome-python-chemistry/) ⭐ 1,434 | 🐛 10 | 📅 2025-09-21
-* [awesome-cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics) ⭐ 881 | 🐛 35 | 📅 2024-03-15
+* [awesome-cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics) ⭐ 880 | 🐛 35 | 📅 2024-03-15
 
 ***
 
