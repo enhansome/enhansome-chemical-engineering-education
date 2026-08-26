@@ -137,21 +137,6 @@
             },
             {
               "node_type": "item",
-              "title": "MLxChE: Intro to Machine Learning for Chemical Engineers",
-              "description": "University of the Philippines, Diliman; Prof. Karl Ezra Pilario",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 758368884,
-                "language": "Jupyter Notebook",
-                "last_commit": "2026-02-06T02:39:52Z",
-                "owner": "kspilario",
-                "repo": "MLxChE",
-                "stars": 32
-              }
-            },
-            {
-              "node_type": "item",
               "title": "Machine Learning for Molecular Engineering (ML4MolEng)",
               "description": "MIT; Prof. Connor Coley, Prof. Rafael Gomez-Bombarelli, Prof. Ernest Fraenkel, Prof. Joey Davis, Prof. Sergey Ovchinnikov",
               "children": [
@@ -178,6 +163,21 @@
                 "last_commit": "2026-05-14T23:38:15Z",
                 "owner": "coleygroup",
                 "repo": "ML4MolEng",
+                "stars": 31
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MLxChE: Intro to Machine Learning for Chemical Engineers",
+              "description": "University of the Philippines, Diliman; Prof. Karl Ezra Pilario",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 758368884,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-02-06T02:39:52Z",
+                "owner": "kspilario",
+                "repo": "MLxChE",
                 "stars": 31
               }
             },
@@ -593,7 +593,7 @@
             "archived": false,
             "id": 267659508,
             "language": "Julia",
-            "last_commit": "2026-08-25T01:00:25Z",
+            "last_commit": "2026-08-26T07:30:42Z",
             "owner": "ClapeyronThermo",
             "repo": "Clapeyron.jl",
             "stars": 291
@@ -765,7 +765,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T09:20:23.324Z",
+    "last_updated": "2026-08-26T09:25:36.820Z",
     "original_repository": "kevingreenman/awesome-chemical-engineering-education",
     "original_repository_id": 651769960,
     "original_repository_sha": "31a54f220ab31da3c71832f41e8347ce4fdd29d6",
