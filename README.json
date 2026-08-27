@@ -593,7 +593,7 @@
             "archived": false,
             "id": 267659508,
             "language": "Julia",
-            "last_commit": "2026-08-26T07:30:42Z",
+            "last_commit": "2026-08-27T06:54:04Z",
             "owner": "ClapeyronThermo",
             "repo": "Clapeyron.jl",
             "stars": 291
@@ -765,9 +765,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T09:25:36.820Z",
-    "original_repository": "kevingreenman/awesome-chemical-engineering-education",
-    "original_repository_id": 651769960,
+    "last_updated": "2026-08-27T11:28:54.116Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 651769960,
+      "language": null,
+      "last_commit": "2026-06-05T15:34:01Z",
+      "owner": "kevingreenman",
+      "repo": "awesome-chemical-engineering-education",
+      "stars": 207
+    },
     "original_repository_sha": "31a54f220ab31da3c71832f41e8347ce4fdd29d6",
     "enhanced_repository": "enhansome/enhansome-chemical-engineering-education",
     "enhanced_repository_description": null,
