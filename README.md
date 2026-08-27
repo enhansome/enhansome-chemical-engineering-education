@@ -105,7 +105,7 @@ Please be respectful of the people who have created these resources. If you want
 
 * [Clapeyron.jl](https://github.com/ClapeyronThermo/Clapeyron.jl) ⭐ 291 | 🐛 60 | 🌐 Julia | 📅 2026-08-27 - Julia package for thermodynamic property calculations / equations of state.
 * [Chemics](https://github.com/wigging/chemics) ⭐ 209 | 🐛 2 | 🌐 Python | 📅 2024-03-10 - Python package for chemistry and chemical engineering applications.
-* [pychemqt](https://github.com/jjgomera/pychemqt) ⭐ 180 | 🐛 7 | 🌐 Python | 📅 2026-06-19 - free software tool for calculation and design of unit operations in chemical engineering.
+* [pychemqt](https://github.com/jjgomera/pychemqt) ⭐ 181 | 🐛 7 | 🌐 Python | 📅 2026-06-19 - free software tool for calculation and design of unit operations in chemical engineering.
 * [OpSim](https://github.com/opsim/opsim) ⭐ 43 | 🐛 22 | 🌐 Pascal | 📅 2019-08-13 - open source Chemical Engineering Process Simulator with a user friendly drag-and-drop graphical user interface and an underlying high performance simulation engine.
 * [Process Dynamics Engine](https://github.com/OpenChemE/Process-Dynamics-Engine) ⭐ 26 | 🐛 5 | 🌐 Python | 📅 2019-02-16 - online, real-time simulator for process control models described by transfer functions or state space representations.
 * [ChemEng Solved](https://github.com/asanet/chemeng-solved) ⭐ 25 | 🐛 1 | 🌐 MATLAB | 📅 2026-02-26 - Classic problems in chemical engineering solved with matlab.
