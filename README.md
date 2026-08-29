@@ -24,7 +24,7 @@ Please be respectful of the people who have created these resources. If you want
   * [CHBE 241 Material and Energy Balances](https://chbe241.github.io/) - University of British Columbia, Prof. Jonathan Verrett. And related [resources](https://github.com/OpenChemE/CHBE241) ⭐ 12 | 🐛 7 | 🌐 HTML | 📅 2021-07-14.
   * [ChEn-1070 Introduction to Chemical Engineering](https://github.com/dpploy/chen-1070) ⭐ 4 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2026-05-11 - UMass Lowell; Fall 2019; Profs. Manohar and de Almeida.
   * [CHBE220 Founding Principles in Chemical and Biological Engineering I](https://github.com/OpenChemE/CHBE220-OER-Dev) ⭐ 4 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2020-08-10 - University of British Columbia.
-  * [CBE20255 - Introduction to Chemical Engineering](https://github.com/wmfschneider/CBE20255) ⭐ 1 | 🐛 0 | 🌐 TeX | 📅 2020-12-07 - University of Notre Dame, Prof. William Schneider. Additional [version](https://github.com/jckantor/CBE20255) ⭐ 197 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2019-06-28 available from Prof. Jeffrey Kantor.
+  * [CBE20255 - Introduction to Chemical Engineering](https://github.com/wmfschneider/CBE20255) ⭐ 1 | 🐛 0 | 🌐 TeX | 📅 2020-12-07 - University of Notre Dame, Prof. William Schneider. Additional [version](https://github.com/jckantor/CBE20255) ⭐ 198 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2019-06-28 available from Prof. Jeffrey Kantor.
 * **Computational / Numerical / Math Methods / AI / ML**
   * [Python for Chemical Engineers](https://github.com/CAChemE/Python-Chemical-Engineers) ⭐ 93 | 🐛 0 | 🌐 Python | 📅 2016-09-27 - CAChemE
   * [Numerical Methods and Statistics](https://github.com/whitead/numerical_stats) ⭐ 67 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2020-09-01 - University of Rochester, Prof. Andrew White.
@@ -158,4 +158,4 @@ People and organizations on GitHub who have multiple repositories related to che
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._

@@ -15,12 +15,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":books: Course Materials for CHBE 241 - University of British Columbia :books:",
+                "homepage": "http://www.chbe.ubc.ca/profile/jonathan-verrett/",
                 "id": 93812351,
                 "language": "HTML",
+                "license": "NOASSERTION",
                 "last_commit": "2021-07-14T14:13:02Z",
+                "open_issues": 7,
                 "owner": "OpenChemE",
                 "repo": "CHBE241",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:25:47.317Z"
             },
@@ -31,12 +36,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Basic Computer Programming in Nuclear Chemical Engineering (Cortix Tech); Dr. Valmor F. de Almeida.",
+                "homepage": "https://cortix.tech",
                 "id": 166510635,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-11T16:49:12Z",
+                "open_issues": 10,
                 "owner": "dpploy",
                 "repo": "ct-100",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "chemical-engineering",
+                  "freshmen",
+                  "jupyter-notebook",
+                  "python-3",
+                  "scipy"
+                ]
               },
               "first_seen": "2026-08-28T20:25:47.317Z"
             },
@@ -47,12 +63,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Development of Jypiter notebooks for CHBE220",
+                "homepage": null,
                 "id": 256778099,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2020-08-10T21:46:00Z",
+                "open_issues": 0,
                 "owner": "OpenChemE",
                 "repo": "CHBE220-OER-Dev",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:25:47.317Z"
             },
@@ -63,12 +84,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Introduction to Chemical Engineering",
+                "homepage": null,
                 "id": 319306933,
                 "language": "TeX",
+                "license": null,
                 "last_commit": "2020-12-07T12:21:47Z",
+                "open_issues": 0,
                 "owner": "wmfschneider",
                 "repo": "CBE20255",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:25:47.317Z"
             }
@@ -86,12 +112,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Introduction to Python for Chemical Engineers (crash course with additional resources)",
+                "homepage": null,
                 "id": 46379340,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2016-09-27T17:03:33Z",
+                "open_issues": 0,
                 "owner": "CAChemE",
                 "repo": "Python-Chemical-Engineers",
-                "stars": 93
+                "stars": 93,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:25:47.317Z"
             },
@@ -102,12 +133,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Introduction to Numerical Methods and Statistics with Jupyter Notebooks & Python",
+                "homepage": "https://whitead.github.io/numerical_stats/",
                 "id": 51833329,
                 "language": "Jupyter Notebook",
+                "license": "GPL-3.0",
                 "last_commit": "2020-09-01T20:57:14Z",
+                "open_issues": 1,
                 "owner": "whitead",
                 "repo": "numerical_stats",
-                "stars": 67
+                "stars": 67,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:25:47.317Z"
             },
@@ -118,12 +154,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Computational Methods in Nuclear Chemical Engineering (Cortix Tech); Dr. Valmor F. de Almeida.",
+                "homepage": "https://cortix.tech",
                 "id": 148253943,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2026-02-08T20:48:49Z",
+                "open_issues": 13,
                 "owner": "dpploy",
                 "repo": "ct-300",
-                "stars": 47
+                "stars": 47,
+                "topics": [
+                  "binder",
+                  "chemical-reaction-engineering",
+                  "filtering",
+                  "fitting-algorithm",
+                  "fourier-analysis",
+                  "jupyter-notebook",
+                  "kinetics",
+                  "latex",
+                  "least-squares",
+                  "linear-algebra",
+                  "matplotlib",
+                  "nbviewer",
+                  "nonlinear-dynamics",
+                  "nuclear-reactor",
+                  "plotly",
+                  "python-3",
+                  "scipy",
+                  "stoichiometry",
+                  "teaching",
+                  "wavelet-analysis"
+                ]
               },
               "first_seen": "2026-08-28T20:25:47.317Z"
             },
@@ -134,12 +196,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repo contains course materials for \"AI for Chemical Engineers\", an AI/ML literacy course that was designed to be accessible and appealing to all junior and senior ChemE undergraduate and graduate students. ",
+                "homepage": null,
                 "id": 1043924924,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-16T05:30:04Z",
+                "open_issues": 0,
                 "owner": "KaihangShi",
                 "repo": "AI-for-Chemical-Engineers_UB",
-                "stars": 44
+                "stars": 44,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:25:47.317Z"
             },
@@ -155,24 +222,34 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Materials for the course Machine Learning for Molecular Engineering (MIT Spring 2021). ",
+                    "homepage": null,
                     "id": 339218329,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2021-05-15T06:17:58Z",
+                    "open_issues": 0,
                     "owner": "wwang2",
                     "repo": "ML4MolEng",
-                    "stars": 15
+                    "stars": 15,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:25:47.317Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "Materials for the course Machine Learning for Molecular Engineering (3/7/10/20.C01/C51)",
+                "homepage": null,
                 "id": 746207110,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2026-05-14T23:38:15Z",
+                "open_issues": 0,
                 "owner": "coleygroup",
                 "repo": "ML4MolEng",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:25:47.317Z"
             },
@@ -183,12 +260,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code Repository for ChE 197 and ChE 297, machine learning courses for Chemical Engineers at UP Diliman",
+                "homepage": null,
                 "id": 758368884,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2026-02-06T02:39:52Z",
+                "open_issues": 0,
                 "owner": "kspilario",
                 "repo": "MLxChE",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:25:47.317Z"
             },
@@ -199,12 +281,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Data science and machine learning in chemical engineering",
+                "homepage": null,
                 "id": 265028162,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2020-05-27T20:57:05Z",
+                "open_issues": 0,
                 "owner": "jkitchin",
                 "repo": "s20-06681",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:25:47.317Z"
             },
@@ -215,12 +302,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Course notes for the CMU course 06-262 Math Methods of Chemical Engineering (ODE's, linear algebra, PDEs, stats) in the form of jupyter notebooks",
+                "homepage": null,
                 "id": 263019288,
                 "language": "Jupyter Notebook",
+                "license": "CC-BY-4.0",
                 "last_commit": "2022-10-19T19:29:57Z",
+                "open_issues": 0,
                 "owner": "ulissigroup",
                 "repo": "math-methods-chemical-engineering",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:25:47.317Z"
             },
@@ -231,12 +323,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Host for Content related to \"CBE 512: Machine Learning in Chemical Science and Engineering\" at Princeton University",
+                "homepage": null,
                 "id": 688958169,
                 "language": "Jupyter Notebook",
+                "license": "GPL-3.0",
                 "last_commit": "2025-10-02T19:07:30Z",
+                "open_issues": 0,
                 "owner": "webbtheosim",
                 "repo": "CBE512-MLinChmSciEng",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:25:47.317Z"
             },
@@ -247,12 +344,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fall 2021  Mathematical Modeling of Chemical Engineering Processes",
+                "homepage": null,
                 "id": 400298708,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2022-06-06T16:07:58Z",
+                "open_issues": 0,
                 "owner": "jkitchin",
                 "repo": "f21-06623",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:25:47.317Z"
             },
@@ -263,12 +365,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 514371039,
                 "language": "Jupyter Notebook",
+                "license": "CC-BY-4.0",
                 "last_commit": "2022-10-13T15:16:22Z",
+                "open_issues": 2,
                 "owner": "ulissigroup",
                 "repo": "F22-06-325",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:25:47.317Z"
             },
@@ -279,12 +386,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Course materials for data visualization and modeling",
+                "homepage": null,
                 "id": 439868830,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2021-12-19T15:35:33Z",
+                "open_issues": 0,
                 "owner": "jkitchin",
                 "repo": "s22-06681",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:25:47.317Z"
             }
@@ -302,12 +414,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Advanced Chemical Engineering Thermodynamics",
+                "homepage": null,
                 "id": 41817372,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2017-12-09T21:46:11Z",
+                "open_issues": 0,
                 "owner": "wmfschneider",
                 "repo": "CBE60553",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:25:47.317Z"
             }
@@ -325,12 +442,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Materials for my undergraduate course on Chemical Engineering Kinetics and Reactor Design at Northeastern University",
+                "homepage": null,
                 "id": 49836371,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2024-01-10T14:32:41Z",
+                "open_issues": 0,
                 "owner": "rwest",
                 "repo": "CHME4510",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:25:47.317Z"
             },
@@ -341,12 +463,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Spring 2017 Chemical and Reaction Engineering",
+                "homepage": null,
                 "id": 79727578,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2017-05-09T11:59:17Z",
+                "open_issues": 0,
                 "owner": "jkitchin",
                 "repo": "s17-06364",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:25:47.317Z"
             },
@@ -357,12 +484,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Advanced Reaction Engineering",
+                "homepage": null,
                 "id": 395483157,
                 "language": "Jupyter Notebook",
+                "license": "GPL-3.0",
                 "last_commit": "2025-12-22T17:29:32Z",
+                "open_issues": 0,
                 "owner": "wmfschneider",
                 "repo": "CBE60546",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:25:47.317Z"
             },
@@ -373,12 +505,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python tutorials for CHBE 355 and 356. Winter 2018 Term 2.",
+                "homepage": null,
                 "id": 151777209,
                 "language": "Jupyter Notebook",
+                "license": "CC-BY-SA-4.0",
                 "last_commit": "2019-01-25T06:08:38Z",
+                "open_issues": 3,
                 "owner": "OpenChemE",
                 "repo": "Tutorials-2018W2",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "chbe355"
+                ]
               },
               "first_seen": "2026-08-28T20:25:47.317Z"
             },
@@ -389,12 +528,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Chemical and Reactive Systems for Fall 2016",
+                "homepage": null,
                 "id": 63949402,
                 "language": "TeX",
+                "license": null,
                 "last_commit": "2016-12-15T13:14:56Z",
+                "open_issues": 0,
                 "owner": "jkitchin",
                 "repo": "f16-06625",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:25:47.317Z"
             },
@@ -405,12 +549,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Graduate Kinetics for Chemical Engineers",
+                "homepage": null,
                 "id": 117887985,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2018-01-25T05:11:49Z",
+                "open_issues": 0,
                 "owner": "rwest",
                 "repo": "CHME7340",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:25:47.317Z"
             }
@@ -428,12 +577,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CBE 30338 Chemical Process Control",
+                "homepage": null,
                 "id": 442286674,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2024-02-27T14:01:05Z",
+                "open_issues": 0,
                 "owner": "jckantor",
                 "repo": "cbe30338-book",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:25:47.317Z"
             },
@@ -444,12 +598,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python tutorials for CHBE 355 and 356. Winter 2018 Term 2.",
+                "homepage": null,
                 "id": 151777209,
                 "language": "Jupyter Notebook",
+                "license": "CC-BY-SA-4.0",
                 "last_commit": "2019-01-25T06:08:38Z",
+                "open_issues": 3,
                 "owner": "OpenChemE",
                 "repo": "Tutorials-2018W2",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "chbe355"
+                ]
               },
               "first_seen": "2026-08-28T20:25:47.317Z"
             }
@@ -467,12 +628,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Preliminary notebooks for a laboratory course on measurement and instrumentation.",
+                "homepage": "https://jckantor.github.io/cbe61622/",
                 "id": 300642709,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2023-01-22T13:12:18Z",
+                "open_issues": 0,
                 "owner": "jckantor",
                 "repo": "cbe61622",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:25:47.317Z"
             },
@@ -483,12 +649,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CBE Lab I",
+                "homepage": null,
                 "id": 456763667,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2022-03-15T00:53:15Z",
+                "open_issues": 0,
                 "owner": "jckantor",
                 "repo": "cbe31358-book",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:25:47.317Z"
             },
@@ -499,12 +670,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unit Operations Laboratory (UMass Lowell, Fall 2020); Profs. Keyvani and de Almeida.",
+                "homepage": null,
                 "id": 266580892,
                 "language": "Jupyter Notebook",
+                "license": "GPL-3.0",
                 "last_commit": "2024-03-06T21:47:11Z",
+                "open_issues": 0,
                 "owner": "dpploy",
                 "repo": "chen-3150",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:25:47.317Z"
             }
@@ -522,12 +698,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Process Operations",
+                "homepage": "jckantor.github.io/CBE40455",
                 "id": 16892958,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2023-05-14T12:56:55Z",
+                "open_issues": 0,
                 "owner": "jckantor",
                 "repo": "CBE40455",
-                "stars": 42
+                "stars": 42,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:25:47.317Z"
             },
@@ -538,12 +719,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Computational Chemistry",
+                "homepage": null,
                 "id": 204517969,
                 "language": "Mathematica",
+                "license": "GPL-3.0",
                 "last_commit": "2019-12-09T17:45:35Z",
+                "open_issues": 0,
                 "owner": "wmfschneider",
                 "repo": "CBE60547",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:25:47.317Z"
             },
@@ -554,12 +740,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Material for Data Driven Process Systems Engineering Course",
+                "homepage": null,
                 "id": 495553099,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2023-04-27T20:06:06Z",
+                "open_issues": 0,
                 "owner": "DDPSE",
                 "repo": "GT_DataDrivenPSE_Course",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:25:47.317Z"
             },
@@ -570,12 +761,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Physical Chemistry for Chemical Engineers",
+                "homepage": null,
                 "id": 744586041,
                 "language": "Jupyter Notebook",
+                "license": "GPL-3.0",
                 "last_commit": "2025-05-03T16:05:48Z",
+                "open_issues": 0,
                 "owner": "wmfschneider",
                 "repo": "CHE30324",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:25:47.317Z"
             },
@@ -586,12 +782,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Molecular Simulation",
+                "homepage": null,
                 "id": 49031550,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2016-07-21T00:24:30Z",
+                "open_issues": 0,
                 "owner": "jkitchin",
                 "repo": "s16-06640",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:25:47.317Z"
             },
@@ -602,12 +803,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Careers for Chemical Engineers",
+                "homepage": null,
                 "id": 334774901,
                 "language": "TeX",
+                "license": null,
                 "last_commit": "2023-01-26T18:21:26Z",
+                "open_issues": 0,
                 "owner": "wmfschneider",
                 "repo": "CBE20290",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:25:47.317Z"
             }
@@ -626,12 +832,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Clapeyron provides a framework for the development and use of fluid-thermodynamic models, including SAFT, cubic, activity, multi-parameter, and COSMO-SAC.",
+            "homepage": "https://clapeyronthermo.github.io/Clapeyron.jl/",
             "id": 267659508,
             "language": "Julia",
-            "last_commit": "2026-08-28T19:40:20Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T23:17:01Z",
+            "open_issues": 60,
             "owner": "ClapeyronThermo",
             "repo": "Clapeyron.jl",
-            "stars": 292
+            "stars": 292,
+            "topics": [
+              "cosmo-sac",
+              "equation-of-state",
+              "julia",
+              "molecular-modeling",
+              "phase-equilibria",
+              "phase-equilibrium",
+              "saft",
+              "solvers",
+              "thermodynamics",
+              "unifac"
+            ]
           },
           "first_seen": "2026-08-28T20:25:47.317Z"
         },
@@ -642,12 +864,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python package for chemical engineering",
+            "homepage": "https://chemics.readthedocs.io",
             "id": 150643772,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-03-10T14:52:52Z",
+            "open_issues": 2,
             "owner": "wigging",
             "repo": "chemics",
-            "stars": 209
+            "stars": 209,
+            "topics": [
+              "biomass",
+              "chemical-engineering",
+              "chemistry",
+              "density",
+              "fluidization",
+              "pressure",
+              "python",
+              "thermal-conductivity",
+              "viscosity"
+            ]
           },
           "first_seen": "2026-08-28T20:25:47.317Z"
         },
@@ -658,12 +895,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "pychemqt intended as a free software tool for calculation and design of unit operations in chemical engineering. The goal is to obtain an equivalent free software to CHEMCAD or hysys. It is written in python using qt as graphics libraries, so is cross-platform.",
+            "homepage": null,
             "id": 19784390,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-06-19T19:20:07Z",
+            "open_issues": 7,
             "owner": "jjgomera",
             "repo": "pychemqt",
-            "stars": 181
+            "stars": 181,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:25:47.317Z"
         },
@@ -674,12 +916,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpSim is an open source Chemical Engineering Process Simulator with a user friendly drag-and-drop graphical user interface and an underlying high performance simulation engine.",
+            "homepage": "http://opsim.cc",
             "id": 107535608,
             "language": "Pascal",
+            "license": "GPL-2.0",
             "last_commit": "2019-08-13T08:48:07Z",
+            "open_issues": 22,
             "owner": "opsim",
             "repo": "opsim",
-            "stars": 43
+            "stars": 43,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:25:47.317Z"
         },
@@ -690,12 +937,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Process Dynamics Engine (PDE) is an online, real-time simulator for process control models described by transfer functions or state space representations.",
+            "homepage": null,
             "id": 148880591,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-02-16T02:02:33Z",
+            "open_issues": 5,
             "owner": "OpenChemE",
             "repo": "Process-Dynamics-Engine",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "chemical-engineering",
+              "control",
+              "process-control",
+              "signals"
+            ]
           },
           "first_seen": "2026-08-28T20:25:47.317Z"
         },
@@ -706,12 +963,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Classic problems in chemical engineering solved with matlab",
+            "homepage": null,
             "id": 139187814,
             "language": "MATLAB",
+            "license": "MIT",
             "last_commit": "2026-02-26T16:51:30Z",
+            "open_issues": 1,
             "owner": "asanet",
             "repo": "chemeng-solved",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "chemical-engineering",
+              "collocation",
+              "collocation-method",
+              "differential-algebraic-equations",
+              "differential-equations",
+              "discretization",
+              "matlab",
+              "mit-license",
+              "mpc-control",
+              "numerical-methods",
+              "optimization",
+              "orthogonal",
+              "parameter-estimation",
+              "process-control",
+              "templates"
+            ]
           },
           "first_seen": "2026-08-28T20:25:47.317Z"
         }
@@ -733,12 +1011,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":factory: Educational resources for Chemical and Process Engineering written in Python",
+                "homepage": null,
                 "id": 31069094,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2021-11-27T16:06:07Z",
+                "open_issues": 0,
                 "owner": "CAChemE",
                 "repo": "learn",
-                "stars": 123
+                "stars": 123,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:25:47.317Z"
             }
@@ -756,12 +1039,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository contains essential python functions for numerical techniques such as root finding, solving ODEs and optimization that are the most commonly used functions by undergraduate students in CHBE.",
+                "homepage": null,
                 "id": 295622278,
                 "language": "Jupyter Notebook",
+                "license": "GPL-3.0",
                 "last_commit": "2021-02-12T04:17:57Z",
+                "open_issues": 0,
                 "owner": "OpenChemE",
                 "repo": "computational-methods",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:25:47.317Z"
             }
@@ -780,12 +1068,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of Python packages related to chemistry ",
+            "homepage": null,
             "id": 80406867,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2025-09-21T08:25:01Z",
+            "open_issues": 10,
             "owner": "lmmentel",
             "repo": "awesome-python-chemistry",
-            "stars": 1434
+            "stars": 1434,
+            "topics": [
+              "atomistic-simulations",
+              "chemistry",
+              "computational-chemistry",
+              "molecular-dynamics",
+              "python-chemistry",
+              "quantum-chemistry",
+              "simulation"
+            ]
           },
           "first_seen": "2026-08-28T20:25:47.317Z"
         },
@@ -796,12 +1097,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of Cheminformatics libraries and software.",
+            "homepage": null,
             "id": 73977763,
             "language": null,
+            "license": null,
             "last_commit": "2024-03-15T00:55:18Z",
+            "open_issues": 35,
             "owner": "hsiaoyi0504",
             "repo": "awesome-cheminformatics",
-            "stars": 880
+            "stars": 880,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "bioinformatics",
+              "cheminformatics",
+              "chemistry"
+            ]
           },
           "first_seen": "2026-08-28T20:25:47.317Z"
         }
@@ -810,15 +1122,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:25:47.317Z",
+    "last_updated": "2026-08-29T04:51:13.027Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of online chemical engineering education resources",
+      "homepage": null,
       "id": 651769960,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-06-05T15:34:01Z",
+      "open_issues": 7,
       "owner": "kevingreenman",
       "repo": "awesome-chemical-engineering-education",
-      "stars": 207
+      "stars": 207,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "chemical-engineering",
+        "cheminformatics",
+        "cheminformatics-and-compchem",
+        "chemistry",
+        "education",
+        "python-chemistry"
+      ]
     },
     "original_repository_sha": "31a54f220ab31da3c71832f41e8347ce4fdd29d6",
     "enhanced_repository": "enhansome/enhansome-chemical-engineering-education",
