@@ -1077,7 +1077,7 @@
             "open_issues": 10,
             "owner": "lmmentel",
             "repo": "awesome-python-chemistry",
-            "stars": 1436,
+            "stars": 1437,
             "topics": [
               "atomistic-simulations",
               "chemistry",
@@ -1122,7 +1122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T14:01:30.126Z",
+    "last_updated": "2026-08-30T14:00:19.267Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of online chemical engineering education resources",
