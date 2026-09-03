@@ -26,7 +26,7 @@ Please be respectful of the people who have created these resources. If you want
   * [CHBE220 Founding Principles in Chemical and Biological Engineering I](https://github.com/OpenChemE/CHBE220-OER-Dev) ⭐ 4 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2020-08-10 - University of British Columbia.
   * [CBE20255 - Introduction to Chemical Engineering](https://github.com/wmfschneider/CBE20255) ⭐ 1 | 🐛 0 | 🌐 TeX | 📅 2020-12-07 - University of Notre Dame, Prof. William Schneider. Additional [version](https://github.com/jckantor/CBE20255) ⭐ 198 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2019-06-28 available from Prof. Jeffrey Kantor.
 * **Computational / Numerical / Math Methods / AI / ML**
-  * [Python for Chemical Engineers](https://github.com/CAChemE/Python-Chemical-Engineers) ⭐ 93 | 🐛 0 | 🌐 Python | 📅 2016-09-27 - CAChemE
+  * [Python for Chemical Engineers](https://github.com/CAChemE/Python-Chemical-Engineers) ⭐ 94 | 🐛 0 | 🌐 Python | 📅 2016-09-27 - CAChemE
   * [Numerical Methods and Statistics](https://github.com/whitead/numerical_stats) ⭐ 67 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2020-09-01 - University of Rochester, Prof. Andrew White.
   * [ChEn-3170 Computational Methods in Chemical Engineering](https://github.com/dpploy/chen-3170) ⭐ 47 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2026-02-08 - UMass Lowell; Spring 2022; Prof. Valmor F. de Almeida.
   * [AI for Chemical Engineers](https://github.com/KaihangShi/AI-for-Chemical-Engineers_UB) ⭐ 44 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-03-16 - University of Buffalo, Prof. Kaihang Shi.
@@ -70,7 +70,7 @@ Please be respectful of the people who have created these resources. If you want
   * [Safety and Chemical Engineering Education (SAChE) from AIChE](https://www.aiche.org/ccps/education/safety-and-chemical-engineering-education-sache-certificate-program)
   * [SAFEChE - Process Safety Across the Chemical Engineering Curriculum](https://safeche.engin.umich.edu/) - University of Michigan, originally developed by Prof. H. Scott Fogler, now led by Dr. Christopher Barr.
 * **Other**
-  * [CBE40455 Process Operations](https://github.com/jckantor/CBE40455) ⭐ 43 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-05-14 - University of Notre Dame, Prof. Jeffrey Kantor. Previous version from [2020](https://github.com/jckantor/CBE40455-2020) ⭐ 7 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2020-11-06. Other [version](https://github.com/jckantor/cbe60455) ⭐ 2 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2022-12-08 also available.
+  * [CBE40455 Process Operations](https://github.com/jckantor/CBE40455) ⭐ 44 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-05-14 - University of Notre Dame, Prof. Jeffrey Kantor. Previous version from [2020](https://github.com/jckantor/CBE40455-2020) ⭐ 8 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2020-11-06. Other [version](https://github.com/jckantor/cbe60455) ⭐ 2 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2022-12-08 also available.
   * [CBE60547 Computational Chemistry](https://github.com/wmfschneider/CBE60547) ⭐ 20 | 🐛 0 | 🌐 Mathematica | 📅 2019-12-09 - University of Notre Dame, Prof. William Schneider. Previous versions available from [2015](https://github.com/wfschneidergroup/computational-chemistry) ⭐ 1 | 🐛 0 | 🌐 TeX | 📅 2015-03-24, [2017](https://github.com/wfschneidergroup/CC_Fall_2017) ⭐ 1 | 🐛 0 | 🌐 Mathematica | 📅 2017-12-05, and [2019](https://github.com/wfschneidergroup/CBE60547) ⭐ 0 | 🐛 0 | 📅 2019-09-05.
   * [Data Driven Process Systems Engineering](https://github.com/DDPSE/GT_DataDrivenPSE_Course) ⭐ 13 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-04-27 - Georgia Tech, Prof. Fani Boukouvala.
   * [CBE30324 Physical Chemistry for Chemical Engineers](https://github.com/wmfschneider/CHE30324) ⭐ 3 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-05-03 - University of Notre Dame, Prof. William Schneider. [Additional version](https://github.com/wfschneidergroup/CHE30324) ⭐ 0 | 🐛 0 | 📅 2020-01-13 also available.
@@ -103,7 +103,7 @@ Please be respectful of the people who have created these resources. If you want
 
 ## Software and Packages
 
-* [Clapeyron.jl](https://github.com/ClapeyronThermo/Clapeyron.jl) ⭐ 292 | 🐛 61 | 🌐 Julia | 📅 2026-09-02 - Julia package for thermodynamic property calculations / equations of state.
+* [Clapeyron.jl](https://github.com/ClapeyronThermo/Clapeyron.jl) ⭐ 292 | 🐛 60 | 🌐 Julia | 📅 2026-09-03 - Julia package for thermodynamic property calculations / equations of state.
 * [Chemics](https://github.com/wigging/chemics) ⭐ 209 | 🐛 2 | 🌐 Python | 📅 2024-03-10 - Python package for chemistry and chemical engineering applications.
 * [pychemqt](https://github.com/jjgomera/pychemqt) ⭐ 181 | 🐛 7 | 🌐 Python | 📅 2026-06-19 - free software tool for calculation and design of unit operations in chemical engineering.
 * [OpSim](https://github.com/opsim/opsim) ⭐ 43 | 🐛 22 | 🌐 Pascal | 📅 2019-08-13 - open source Chemical Engineering Process Simulator with a user friendly drag-and-drop graphical user interface and an underlying high performance simulation engine.
@@ -158,4 +158,4 @@ People and organizations on GitHub who have multiple repositories related to che
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
