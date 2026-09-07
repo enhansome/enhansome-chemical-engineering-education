@@ -137,7 +137,7 @@ People and organizations on GitHub who have multiple repositories related to che
 ## General Jupyter Education
 
 * [Teaching and Learning with Jupyter](https://jupyter4edu.github.io/jupyter-edu-book/)
-* [nbgrader](https://github.com/jupyter/nbgrader) ⭐ 1,370 | 🐛 298 | 🌐 Python | 📅 2026-09-01 - A system for assigning and grading Jupyter notebooks.
+* [nbgrader](https://github.com/jupyter/nbgrader) ⭐ 1,370 | 🐛 299 | 🌐 Python | 📅 2026-09-07 - A system for assigning and grading Jupyter notebooks.
 
 ## Miscellaneous
 
@@ -153,9 +153,9 @@ People and organizations on GitHub who have multiple repositories related to che
 
 ## Related Awesome Lists
 
-* [awesome-python-chemistry](https://github.com/lmmentel/awesome-python-chemistry/) ⭐ 1,437 | 🐛 10 | 📅 2025-09-21
-* [awesome-cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics) ⭐ 884 | 🐛 36 | 📅 2024-03-15
+* [awesome-python-chemistry](https://github.com/lmmentel/awesome-python-chemistry/) ⭐ 1,439 | 🐛 10 | 📅 2025-09-21
+* [awesome-cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics) ⭐ 885 | 🐛 36 | 📅 2024-03-15
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
