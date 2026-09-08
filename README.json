@@ -248,7 +248,7 @@
                 "open_issues": 0,
                 "owner": "coleygroup",
                 "repo": "ML4MolEng",
-                "stars": 31,
+                "stars": 32,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:47.317Z"
@@ -838,7 +838,7 @@
             "language": "Julia",
             "license": "MIT",
             "last_commit": "2026-09-06T20:08:51Z",
-            "open_issues": 60,
+            "open_issues": 62,
             "owner": "ClapeyronThermo",
             "repo": "Clapeyron.jl",
             "stars": 292,
@@ -904,7 +904,7 @@
             "open_issues": 7,
             "owner": "jjgomera",
             "repo": "pychemqt",
-            "stars": 181,
+            "stars": 180,
             "topics": []
           },
           "first_seen": "2026-08-28T20:25:47.317Z"
@@ -1122,7 +1122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T14:28:37.845Z",
+    "last_updated": "2026-09-08T13:05:08.994Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of online chemical engineering education resources",
