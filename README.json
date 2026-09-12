@@ -838,7 +838,7 @@
             "language": "Julia",
             "license": "MIT",
             "last_commit": "2026-09-10T02:46:49Z",
-            "open_issues": 61,
+            "open_issues": 62,
             "owner": "ClapeyronThermo",
             "repo": "Clapeyron.jl",
             "stars": 292,
@@ -900,7 +900,7 @@
             "id": 19784390,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-06-19T19:20:07Z",
+            "last_commit": "2026-09-11T18:21:28Z",
             "open_issues": 7,
             "owner": "jjgomera",
             "repo": "pychemqt",
@@ -1122,7 +1122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T13:01:54.463Z",
+    "last_updated": "2026-09-12T12:23:29.280Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of online chemical engineering education resources",
