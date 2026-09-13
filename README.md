@@ -34,7 +34,7 @@ Please be respectful of the people who have created these resources. If you want
     * **Older iterations:** [Spring 2021](https://github.com/wwang2/ML4MolEng) ⭐ 15 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2021-05-15, [Spring 2022](https://github.com/vikram-sundar/ML4MolEng_Spring2022) ⭐ 11 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2022-05-02, [Spring 2023](https://github.com/YitongTseo/ML4MolEng_Spring2023) ⭐ 2 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-01-23
   * [MLxChE: Intro to Machine Learning for Chemical Engineers](https://github.com/kspilario/MLxChE) ⭐ 31 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-02-06 - University of the Philippines, Diliman; Prof. Karl Ezra Pilario
   * [06-681 Data Science and Machine Learning in Chemical Engineering](https://github.com/jkitchin/s20-06681) ⭐ 28 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2020-05-27 - Carnegie Mellon University, Prof. John Kitchin, Spring 2020.
-  * [06-262 Math Methods in Chemical Engineering](https://github.com/ulissigroup/math-methods-chemical-engineering) ⭐ 26 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2022-10-19 - Carnegie Mellon University, Prof. Zachary Ulissi. ODE's, linear algebra, PDEs, stats in the form of jupyter notebooks. ([Spring 2019 version](https://github.com/ulissigroup/s19-06262) ⭐ 2 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2019-05-02 also available.)
+  * [06-262 Math Methods in Chemical Engineering](https://github.com/ulissigroup/math-methods-chemical-engineering) ⭐ 27 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2022-10-19 - Carnegie Mellon University, Prof. Zachary Ulissi. ODE's, linear algebra, PDEs, stats in the form of jupyter notebooks. ([Spring 2019 version](https://github.com/ulissigroup/s19-06262) ⭐ 2 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2019-05-02 also available.)
   * [CBE 512: Machine Learning in Chemical Science and Engineering](https://github.com/webbtheosim/CBE512-MLinChmSciEng) ⭐ 9 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-10-02 - Princeton University; Prof. Michael Webb
   * [06-623 Mathematical Modeling of Chemical Engineering Processes](https://github.com/jkitchin/f21-06623) ⭐ 8 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2022-06-06 - Carnegie Mellon University, Prof. John Kitchin, Fall 2021. [Fall 2019](https://github.com/jkitchin/f19-06623) ⭐ 13 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2020-03-31 and [Fall 2018](https://github.com/jkitchin/f18-06623) ⭐ 22 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2018-12-12 versions also available.
   * [06-325 Numerical Methods and ML for ChE](https://github.com/ulissigroup/F22-06-325) ⭐ 8 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2022-10-13 - Carnegie Mellon University, Prof. Zachary Ulissi, Fall 2022.
@@ -103,7 +103,7 @@ Please be respectful of the people who have created these resources. If you want
 
 ## Software and Packages
 
-* [Clapeyron.jl](https://github.com/ClapeyronThermo/Clapeyron.jl) ⭐ 292 | 🐛 62 | 🌐 Julia | 📅 2026-09-10 - Julia package for thermodynamic property calculations / equations of state.
+* [Clapeyron.jl](https://github.com/ClapeyronThermo/Clapeyron.jl) ⭐ 292 | 🐛 61 | 🌐 Julia | 📅 2026-09-13 - Julia package for thermodynamic property calculations / equations of state.
 * [Chemics](https://github.com/wigging/chemics) ⭐ 209 | 🐛 2 | 🌐 Python | 📅 2024-03-10 - Python package for chemistry and chemical engineering applications.
 * [pychemqt](https://github.com/jjgomera/pychemqt) ⭐ 180 | 🐛 7 | 🌐 Python | 📅 2026-09-11 - free software tool for calculation and design of unit operations in chemical engineering.
 * [OpSim](https://github.com/opsim/opsim) ⭐ 43 | 🐛 22 | 🌐 Pascal | 📅 2019-08-13 - open source Chemical Engineering Process Simulator with a user friendly drag-and-drop graphical user interface and an underlying high performance simulation engine.
@@ -137,7 +137,7 @@ People and organizations on GitHub who have multiple repositories related to che
 ## General Jupyter Education
 
 * [Teaching and Learning with Jupyter](https://jupyter4edu.github.io/jupyter-edu-book/)
-* [nbgrader](https://github.com/jupyter/nbgrader) ⭐ 1,370 | 🐛 300 | 🌐 Python | 📅 2026-09-10 - A system for assigning and grading Jupyter notebooks.
+* [nbgrader](https://github.com/jupyter/nbgrader) ⭐ 1,371 | 🐛 300 | 🌐 Python | 📅 2026-09-10 - A system for assigning and grading Jupyter notebooks.
 
 ## Miscellaneous
 
@@ -158,4 +158,4 @@ People and organizations on GitHub who have multiple repositories related to che
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._

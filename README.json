@@ -311,7 +311,7 @@
                 "open_issues": 0,
                 "owner": "ulissigroup",
                 "repo": "math-methods-chemical-engineering",
-                "stars": 26,
+                "stars": 27,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:47.317Z"
@@ -837,8 +837,8 @@
             "id": 267659508,
             "language": "Julia",
             "license": "MIT",
-            "last_commit": "2026-09-10T02:46:49Z",
-            "open_issues": 62,
+            "last_commit": "2026-09-13T05:52:24Z",
+            "open_issues": 61,
             "owner": "ClapeyronThermo",
             "repo": "Clapeyron.jl",
             "stars": 292,
@@ -1122,7 +1122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T12:23:29.280Z",
+    "last_updated": "2026-09-13T13:28:31.164Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of online chemical engineering education resources",
