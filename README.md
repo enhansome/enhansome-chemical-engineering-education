@@ -74,7 +74,7 @@ Please be respectful of the people who have created these resources. If you want
   * [CBE60547 Computational Chemistry](https://github.com/wmfschneider/CBE60547) ⭐ 20 | 🐛 0 | 🌐 Mathematica | 📅 2019-12-09 - University of Notre Dame, Prof. William Schneider. Previous versions available from [2015](https://github.com/wfschneidergroup/computational-chemistry) ⭐ 1 | 🐛 0 | 🌐 TeX | 📅 2015-03-24, [2017](https://github.com/wfschneidergroup/CC_Fall_2017) ⭐ 1 | 🐛 0 | 🌐 Mathematica | 📅 2017-12-05, and [2019](https://github.com/wfschneidergroup/CBE60547) ⭐ 0 | 🐛 0 | 📅 2019-09-05.
   * [Data Driven Process Systems Engineering](https://github.com/DDPSE/GT_DataDrivenPSE_Course) ⭐ 13 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-04-27 - Georgia Tech, Prof. Fani Boukouvala.
   * [CBE30324 Physical Chemistry for Chemical Engineers](https://github.com/wmfschneider/CHE30324) ⭐ 3 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-05-03 - University of Notre Dame, Prof. William Schneider. [Additional version](https://github.com/wfschneidergroup/CHE30324) ⭐ 0 | 🐛 0 | 📅 2020-01-13 also available.
-  * [06-640 Molecular Simulation](https://github.com/jkitchin/s16-06640) ⭐ 0 | 🐛 0 | 🌐 HTML | 📅 2016-07-21 - Carnegie Mellon University, Prof. John Kitchin, Spring 2016. Older [material](https://github.com/jkitchin/dft-course) ⭐ 25 | 🐛 0 | 🌐 Emacs Lisp | 📅 2012-12-05 also available.
+  * [06-640 Molecular Simulation](https://github.com/jkitchin/s16-06640) ⭐ 0 | 🐛 0 | 🌐 HTML | 📅 2016-07-21 - Carnegie Mellon University, Prof. John Kitchin, Spring 2016. Older [material](https://github.com/jkitchin/dft-course) ⭐ 26 | 🐛 0 | 🌐 Emacs Lisp | 📅 2012-12-05 also available.
   * [CBE20290 Career Choices for Chemical Engineers](https://github.com/wmfschneider/CBE20290) ⭐ 0 | 🐛 0 | 🌐 TeX | 📅 2023-01-26 - University of Notre Dame, Prof. William Schneider.
   * [Introduction to Experimental and Computational Research in Chemical Engineering](https://journals.flvc.org/cee/article/view/115593)
   * [Computational Problem Solving in the Chemical Sciences](https://rwexler.github.io/comp-prob-solv/intro.html) - Washington University in St. Louis, Prof. Robert Wexler.
@@ -103,7 +103,7 @@ Please be respectful of the people who have created these resources. If you want
 
 ## Software and Packages
 
-* [Clapeyron.jl](https://github.com/ClapeyronThermo/Clapeyron.jl) ⭐ 292 | 🐛 61 | 🌐 Julia | 📅 2026-09-13 - Julia package for thermodynamic property calculations / equations of state.
+* [Clapeyron.jl](https://github.com/ClapeyronThermo/Clapeyron.jl) ⭐ 292 | 🐛 62 | 🌐 Julia | 📅 2026-09-14 - Julia package for thermodynamic property calculations / equations of state.
 * [Chemics](https://github.com/wigging/chemics) ⭐ 209 | 🐛 2 | 🌐 Python | 📅 2024-03-10 - Python package for chemistry and chemical engineering applications.
 * [pychemqt](https://github.com/jjgomera/pychemqt) ⭐ 180 | 🐛 7 | 🌐 Python | 📅 2026-09-11 - free software tool for calculation and design of unit operations in chemical engineering.
 * [OpSim](https://github.com/opsim/opsim) ⭐ 43 | 🐛 22 | 🌐 Pascal | 📅 2019-08-13 - open source Chemical Engineering Process Simulator with a user friendly drag-and-drop graphical user interface and an underlying high performance simulation engine.
@@ -137,7 +137,7 @@ People and organizations on GitHub who have multiple repositories related to che
 ## General Jupyter Education
 
 * [Teaching and Learning with Jupyter](https://jupyter4edu.github.io/jupyter-edu-book/)
-* [nbgrader](https://github.com/jupyter/nbgrader) ⭐ 1,371 | 🐛 300 | 🌐 Python | 📅 2026-09-10 - A system for assigning and grading Jupyter notebooks.
+* [nbgrader](https://github.com/jupyter/nbgrader) ⭐ 1,371 | 🐛 301 | 🌐 Python | 📅 2026-09-13 - A system for assigning and grading Jupyter notebooks.
 
 ## Miscellaneous
 
@@ -158,4 +158,4 @@ People and organizations on GitHub who have multiple repositories related to che
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
