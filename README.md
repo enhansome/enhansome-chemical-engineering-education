@@ -32,7 +32,7 @@ Please be respectful of the people who have created these resources. If you want
   * [AI for Chemical Engineers](https://github.com/KaihangShi/AI-for-Chemical-Engineers_UB) ⭐ 44 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-03-16 - University of Buffalo, Prof. Kaihang Shi.
   * [Machine Learning for Molecular Engineering (ML4MolEng)](https://github.com/coleygroup/ML4MolEng) ⭐ 32 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-05-14 - MIT; Prof. Connor Coley, Prof. Rafael Gomez-Bombarelli, Prof. Ernest Fraenkel, Prof. Joey Davis, Prof. Sergey Ovchinnikov
     * **Older iterations:** [Spring 2021](https://github.com/wwang2/ML4MolEng) ⭐ 15 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2021-05-15, [Spring 2022](https://github.com/vikram-sundar/ML4MolEng_Spring2022) ⭐ 11 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2022-05-02, [Spring 2023](https://github.com/YitongTseo/ML4MolEng_Spring2023) ⭐ 2 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-01-23
-  * [MLxChE: Intro to Machine Learning for Chemical Engineers](https://github.com/kspilario/MLxChE) ⭐ 31 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-02-06 - University of the Philippines, Diliman; Prof. Karl Ezra Pilario
+  * [MLxChE: Intro to Machine Learning for Chemical Engineers](https://github.com/kspilario/MLxChE) ⭐ 32 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-02-06 - University of the Philippines, Diliman; Prof. Karl Ezra Pilario
   * [06-681 Data Science and Machine Learning in Chemical Engineering](https://github.com/jkitchin/s20-06681) ⭐ 28 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2020-05-27 - Carnegie Mellon University, Prof. John Kitchin, Spring 2020.
   * [06-262 Math Methods in Chemical Engineering](https://github.com/ulissigroup/math-methods-chemical-engineering) ⭐ 27 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2022-10-19 - Carnegie Mellon University, Prof. Zachary Ulissi. ODE's, linear algebra, PDEs, stats in the form of jupyter notebooks. ([Spring 2019 version](https://github.com/ulissigroup/s19-06262) ⭐ 2 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2019-05-02 also available.)
   * [CBE 512: Machine Learning in Chemical Science and Engineering](https://github.com/webbtheosim/CBE512-MLinChmSciEng) ⭐ 9 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-10-02 - Princeton University; Prof. Michael Webb
@@ -57,7 +57,7 @@ Please be respectful of the people who have created these resources. If you want
   * [CHME7340 Chemical Engineering Kinetics and Reactor Design (Grad)](https://github.com/rwest/CHME7340) ⭐ 2 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2018-01-25 - Northeastern University, Prof. Richard West.
   * [CBE 504 Chemical Reaction Engineering](https://github.com/Andrew-S-Rosen/cbe504/blob/main/CBE%20504.pdf) (graduate-level course) - Princeton University, Prof. Andrew Rosen, Fall 2024.
 * **Process Control**
-  * [CBE30338 Chemical Process Control](https://github.com/jckantor/cbe30338-book) ⭐ 15 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-02-27 - University of Notre Dame, Prof. Jeffrey Kantor. Integrates materials from previous repos for [CBE30338](https://github.com/jckantor/CBE30338) ⭐ 296 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2023-05-14 and [CBE32338](https://github.com/jckantor/CBE32338) ⭐ 14 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2020-12-07. Spring [2020](https://github.com/jckantor/CBE30338-Sp2020) ⭐ 7 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2020-05-08 and [2021](https://github.com/jckantor/cbe30338-2021) ⭐ 5 | 🐛 0 | 🌐 Smarty | 📅 2021-05-08 versions also available.
+  * [CBE30338 Chemical Process Control](https://github.com/jckantor/cbe30338-book) ⭐ 15 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-02-27 - University of Notre Dame, Prof. Jeffrey Kantor. Integrates materials from previous repos for [CBE30338](https://github.com/jckantor/CBE30338) ⭐ 297 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2023-05-14 and [CBE32338](https://github.com/jckantor/CBE32338) ⭐ 14 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2020-12-07. Spring [2020](https://github.com/jckantor/CBE30338-Sp2020) ⭐ 7 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2020-05-08 and [2021](https://github.com/jckantor/cbe30338-2021) ⭐ 5 | 🐛 0 | 🌐 Smarty | 📅 2021-05-08 versions also available.
   * [CHBE 356 Process Dynamics and Control](https://opencheme.github.io/CHBE356/) - University of British Columbia. [Winter 2018 tutorials](https://github.com/OpenChemE/Tutorials-2018W2/) ⭐ 7 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2019-01-25 and [GitHub](https://github.com/OpenChemE/CHBE356) ⭐ 46 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2020-03-03 also available.
   * [CHE 346 Process Dynamics and Control](http://apmonitor.com/che436/) - Brigham Young University, Prof. John (J.D.) Hedengren.
 * **Laboratory**
@@ -137,7 +137,7 @@ People and organizations on GitHub who have multiple repositories related to che
 ## General Jupyter Education
 
 * [Teaching and Learning with Jupyter](https://jupyter4edu.github.io/jupyter-edu-book/)
-* [nbgrader](https://github.com/jupyter/nbgrader) ⭐ 1,371 | 🐛 301 | 🌐 Python | 📅 2026-09-13 - A system for assigning and grading Jupyter notebooks.
+* [nbgrader](https://github.com/jupyter/nbgrader) ⭐ 1,372 | 🐛 301 | 🌐 Python | 📅 2026-09-13 - A system for assigning and grading Jupyter notebooks.
 
 ## Miscellaneous
 
@@ -153,9 +153,9 @@ People and organizations on GitHub who have multiple repositories related to che
 
 ## Related Awesome Lists
 
-* [awesome-python-chemistry](https://github.com/lmmentel/awesome-python-chemistry/) ⭐ 1,440 | 🐛 10 | 📅 2025-09-21
+* [awesome-python-chemistry](https://github.com/lmmentel/awesome-python-chemistry/) ⭐ 1,441 | 🐛 10 | 📅 2025-09-21
 * [awesome-cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics) ⭐ 886 | 🐛 36 | 📅 2024-03-15
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._

@@ -269,7 +269,7 @@
                 "open_issues": 0,
                 "owner": "kspilario",
                 "repo": "MLxChE",
-                "stars": 31,
+                "stars": 32,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:47.317Z"
@@ -1077,7 +1077,7 @@
             "open_issues": 10,
             "owner": "lmmentel",
             "repo": "awesome-python-chemistry",
-            "stars": 1440,
+            "stars": 1441,
             "topics": [
               "atomistic-simulations",
               "chemistry",
@@ -1122,7 +1122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T13:48:15.313Z",
+    "last_updated": "2026-09-18T13:10:45.127Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of online chemical engineering education resources",
