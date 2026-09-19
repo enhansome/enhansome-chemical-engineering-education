@@ -57,7 +57,7 @@ Please be respectful of the people who have created these resources. If you want
   * [CHME7340 Chemical Engineering Kinetics and Reactor Design (Grad)](https://github.com/rwest/CHME7340) ⭐ 2 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2018-01-25 - Northeastern University, Prof. Richard West.
   * [CBE 504 Chemical Reaction Engineering](https://github.com/Andrew-S-Rosen/cbe504/blob/main/CBE%20504.pdf) (graduate-level course) - Princeton University, Prof. Andrew Rosen, Fall 2024.
 * **Process Control**
-  * [CBE30338 Chemical Process Control](https://github.com/jckantor/cbe30338-book) ⭐ 15 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-02-27 - University of Notre Dame, Prof. Jeffrey Kantor. Integrates materials from previous repos for [CBE30338](https://github.com/jckantor/CBE30338) ⭐ 297 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2023-05-14 and [CBE32338](https://github.com/jckantor/CBE32338) ⭐ 14 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2020-12-07. Spring [2020](https://github.com/jckantor/CBE30338-Sp2020) ⭐ 7 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2020-05-08 and [2021](https://github.com/jckantor/cbe30338-2021) ⭐ 5 | 🐛 0 | 🌐 Smarty | 📅 2021-05-08 versions also available.
+  * [CBE30338 Chemical Process Control](https://github.com/jckantor/cbe30338-book) ⭐ 15 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-02-27 - University of Notre Dame, Prof. Jeffrey Kantor. Integrates materials from previous repos for [CBE30338](https://github.com/jckantor/CBE30338) ⭐ 298 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2023-05-14 and [CBE32338](https://github.com/jckantor/CBE32338) ⭐ 14 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2020-12-07. Spring [2020](https://github.com/jckantor/CBE30338-Sp2020) ⭐ 7 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2020-05-08 and [2021](https://github.com/jckantor/cbe30338-2021) ⭐ 5 | 🐛 0 | 🌐 Smarty | 📅 2021-05-08 versions also available.
   * [CHBE 356 Process Dynamics and Control](https://opencheme.github.io/CHBE356/) - University of British Columbia. [Winter 2018 tutorials](https://github.com/OpenChemE/Tutorials-2018W2/) ⭐ 7 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2019-01-25 and [GitHub](https://github.com/OpenChemE/CHBE356) ⭐ 46 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2020-03-03 also available.
   * [CHE 346 Process Dynamics and Control](http://apmonitor.com/che436/) - Brigham Young University, Prof. John (J.D.) Hedengren.
 * **Laboratory**
@@ -126,7 +126,7 @@ People and organizations on GitHub who have multiple repositories related to che
 * [APMonitor](https://github.com/APMonitor) (Advanced Process Solutions, LLC)
 * [Caleb Bell](https://github.com/CalebBell) (University of New Brunswick)
 * [Computer Aided Chemical Engineering (CAChemE)](https://github.com/CAChemE)
-  * [learn](https://github.com/CAChemE/learn) ⭐ 123 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2021-11-27 - educational resources for chemical and process engineering written in Python.
+  * [learn](https://github.com/CAChemE/learn) ⭐ 124 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2021-11-27 - educational resources for chemical and process engineering written in Python.
 * [Digital Physicochemical Processing LabOratorY (DPPLOY)](https://github.com/dpploy) (UMass Lowell)
 * [Jeffrey Kantor](https://github.com/jckantor) (Notre Dame)
 * [John Kitchin](https://github.com/jkitchin) (Carnegie Mellon)
@@ -158,4 +158,4 @@ People and organizations on GitHub who have multiple repositories related to che
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
