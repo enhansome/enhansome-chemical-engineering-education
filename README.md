@@ -57,7 +57,7 @@ Please be respectful of the people who have created these resources. If you want
   * [CHME7340 Chemical Engineering Kinetics and Reactor Design (Grad)](https://github.com/rwest/CHME7340) ⭐ 2 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2018-01-25 - Northeastern University, Prof. Richard West.
   * [CBE 504 Chemical Reaction Engineering](https://github.com/Andrew-S-Rosen/cbe504/blob/main/CBE%20504.pdf) (graduate-level course) - Princeton University, Prof. Andrew Rosen, Fall 2024.
 * **Process Control**
-  * [CBE30338 Chemical Process Control](https://github.com/jckantor/cbe30338-book) ⭐ 15 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-02-27 - University of Notre Dame, Prof. Jeffrey Kantor. Integrates materials from previous repos for [CBE30338](https://github.com/jckantor/CBE30338) ⭐ 298 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2023-05-14 and [CBE32338](https://github.com/jckantor/CBE32338) ⭐ 14 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2020-12-07. Spring [2020](https://github.com/jckantor/CBE30338-Sp2020) ⭐ 7 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2020-05-08 and [2021](https://github.com/jckantor/cbe30338-2021) ⭐ 5 | 🐛 0 | 🌐 Smarty | 📅 2021-05-08 versions also available.
+  * [CBE30338 Chemical Process Control](https://github.com/jckantor/cbe30338-book) ⭐ 15 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-02-27 - University of Notre Dame, Prof. Jeffrey Kantor. Integrates materials from previous repos for [CBE30338](https://github.com/jckantor/CBE30338) ⭐ 297 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2023-05-14 and [CBE32338](https://github.com/jckantor/CBE32338) ⭐ 14 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2020-12-07. Spring [2020](https://github.com/jckantor/CBE30338-Sp2020) ⭐ 7 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2020-05-08 and [2021](https://github.com/jckantor/cbe30338-2021) ⭐ 5 | 🐛 0 | 🌐 Smarty | 📅 2021-05-08 versions also available.
   * [CHBE 356 Process Dynamics and Control](https://opencheme.github.io/CHBE356/) - University of British Columbia. [Winter 2018 tutorials](https://github.com/OpenChemE/Tutorials-2018W2/) ⭐ 7 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2019-01-25 and [GitHub](https://github.com/OpenChemE/CHBE356) ⭐ 46 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2020-03-03 also available.
   * [CHE 346 Process Dynamics and Control](http://apmonitor.com/che436/) - Brigham Young University, Prof. John (J.D.) Hedengren.
 * **Laboratory**
@@ -103,12 +103,12 @@ Please be respectful of the people who have created these resources. If you want
 
 ## Software and Packages
 
-* [Clapeyron.jl](https://github.com/ClapeyronThermo/Clapeyron.jl) ⭐ 292 | 🐛 61 | 🌐 Julia | 📅 2026-09-17 - Julia package for thermodynamic property calculations / equations of state.
+* [Clapeyron.jl](https://github.com/ClapeyronThermo/Clapeyron.jl) ⭐ 292 | 🐛 62 | 🌐 Julia | 📅 2026-09-20 - Julia package for thermodynamic property calculations / equations of state.
 * [Chemics](https://github.com/wigging/chemics) ⭐ 209 | 🐛 2 | 🌐 Python | 📅 2024-03-10 - Python package for chemistry and chemical engineering applications.
 * [pychemqt](https://github.com/jjgomera/pychemqt) ⭐ 180 | 🐛 7 | 🌐 Python | 📅 2026-09-11 - free software tool for calculation and design of unit operations in chemical engineering.
 * [OpSim](https://github.com/opsim/opsim) ⭐ 43 | 🐛 22 | 🌐 Pascal | 📅 2019-08-13 - open source Chemical Engineering Process Simulator with a user friendly drag-and-drop graphical user interface and an underlying high performance simulation engine.
-* [Process Dynamics Engine](https://github.com/OpenChemE/Process-Dynamics-Engine) ⭐ 26 | 🐛 5 | 🌐 Python | 📅 2019-02-16 - online, real-time simulator for process control models described by transfer functions or state space representations.
 * [ChemEng Solved](https://github.com/asanet/chemeng-solved) ⭐ 25 | 🐛 1 | 🌐 MATLAB | 📅 2026-02-26 - Classic problems in chemical engineering solved with matlab.
+* [Process Dynamics Engine](https://github.com/OpenChemE/Process-Dynamics-Engine) ⭐ 25 | 🐛 5 | 🌐 Python | 📅 2019-02-16 - online, real-time simulator for process control models described by transfer functions or state space representations.
 * [Reaction Mechanism Generator (RMG)](https://github.com/ReactionMechanismGenerator) - automatic chemical reaction mechanism generation.
 
 ## Journals
@@ -154,8 +154,8 @@ People and organizations on GitHub who have multiple repositories related to che
 ## Related Awesome Lists
 
 * [awesome-python-chemistry](https://github.com/lmmentel/awesome-python-chemistry/) ⭐ 1,441 | 🐛 10 | 📅 2025-09-21
-* [awesome-cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics) ⭐ 886 | 🐛 36 | 📅 2024-03-15
+* [awesome-cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics) ⭐ 887 | 🐛 36 | 📅 2024-03-15
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._

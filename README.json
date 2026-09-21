@@ -837,8 +837,8 @@
             "id": 267659508,
             "language": "Julia",
             "license": "MIT",
-            "last_commit": "2026-09-17T03:04:08Z",
-            "open_issues": 61,
+            "last_commit": "2026-09-20T20:06:46Z",
+            "open_issues": 62,
             "owner": "ClapeyronThermo",
             "repo": "Clapeyron.jl",
             "stars": 292,
@@ -932,32 +932,6 @@
         },
         {
           "node_type": "item",
-          "title": "Process Dynamics Engine",
-          "description": "online, real-time simulator for process control models described by transfer functions or state space representations.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Process Dynamics Engine (PDE) is an online, real-time simulator for process control models described by transfer functions or state space representations.",
-            "homepage": null,
-            "id": 148880591,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2019-02-16T02:02:33Z",
-            "open_issues": 5,
-            "owner": "OpenChemE",
-            "repo": "Process-Dynamics-Engine",
-            "stars": 26,
-            "topics": [
-              "chemical-engineering",
-              "control",
-              "process-control",
-              "signals"
-            ]
-          },
-          "first_seen": "2026-08-28T20:25:47.317Z"
-        },
-        {
-          "node_type": "item",
           "title": "ChemEng Solved",
           "description": "Classic problems in chemical engineering solved with matlab.",
           "children": [],
@@ -989,6 +963,32 @@
               "parameter-estimation",
               "process-control",
               "templates"
+            ]
+          },
+          "first_seen": "2026-08-28T20:25:47.317Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Process Dynamics Engine",
+          "description": "online, real-time simulator for process control models described by transfer functions or state space representations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Process Dynamics Engine (PDE) is an online, real-time simulator for process control models described by transfer functions or state space representations.",
+            "homepage": null,
+            "id": 148880591,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2019-02-16T02:02:33Z",
+            "open_issues": 5,
+            "owner": "OpenChemE",
+            "repo": "Process-Dynamics-Engine",
+            "stars": 25,
+            "topics": [
+              "chemical-engineering",
+              "control",
+              "process-control",
+              "signals"
             ]
           },
           "first_seen": "2026-08-28T20:25:47.317Z"
@@ -1106,7 +1106,7 @@
             "open_issues": 36,
             "owner": "hsiaoyi0504",
             "repo": "awesome-cheminformatics",
-            "stars": 886,
+            "stars": 887,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1122,7 +1122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T13:13:41.845Z",
+    "last_updated": "2026-09-21T15:21:08.487Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of online chemical engineering education resources",
@@ -1134,7 +1134,7 @@
       "open_issues": 7,
       "owner": "kevingreenman",
       "repo": "awesome-chemical-engineering-education",
-      "stars": 208,
+      "stars": 209,
       "topics": [
         "awesome",
         "awesome-list",
