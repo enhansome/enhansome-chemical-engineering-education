@@ -837,11 +837,11 @@
             "id": 267659508,
             "language": "Julia",
             "license": "MIT",
-            "last_commit": "2026-09-22T03:45:29Z",
+            "last_commit": "2026-09-23T03:00:26Z",
             "open_issues": 62,
             "owner": "ClapeyronThermo",
             "repo": "Clapeyron.jl",
-            "stars": 292,
+            "stars": 293,
             "topics": [
               "cosmo-sac",
               "equation-of-state",
@@ -1122,7 +1122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T13:41:17.980Z",
+    "last_updated": "2026-09-23T13:52:32.502Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of online chemical engineering education resources",
