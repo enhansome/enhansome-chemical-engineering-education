@@ -121,7 +121,7 @@
                 "open_issues": 0,
                 "owner": "CAChemE",
                 "repo": "Python-Chemical-Engineers",
-                "stars": 94,
+                "stars": 95,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:47.317Z"
@@ -837,7 +837,7 @@
             "id": 267659508,
             "language": "Julia",
             "license": "MIT",
-            "last_commit": "2026-09-24T02:51:09Z",
+            "last_commit": "2026-09-25T04:31:11Z",
             "open_issues": 62,
             "owner": "ClapeyronThermo",
             "repo": "Clapeyron.jl",
@@ -1122,7 +1122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T13:48:59.701Z",
+    "last_updated": "2026-09-25T14:11:29.229Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of online chemical engineering education resources",

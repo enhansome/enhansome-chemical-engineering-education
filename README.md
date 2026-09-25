@@ -26,7 +26,7 @@ Please be respectful of the people who have created these resources. If you want
   * [CHBE220 Founding Principles in Chemical and Biological Engineering I](https://github.com/OpenChemE/CHBE220-OER-Dev) ⭐ 4 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2020-08-10 - University of British Columbia.
   * [CBE20255 - Introduction to Chemical Engineering](https://github.com/wmfschneider/CBE20255) ⭐ 1 | 🐛 0 | 🌐 TeX | 📅 2020-12-07 - University of Notre Dame, Prof. William Schneider. Additional [version](https://github.com/jckantor/CBE20255) ⭐ 198 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2019-06-28 available from Prof. Jeffrey Kantor.
 * **Computational / Numerical / Math Methods / AI / ML**
-  * [Python for Chemical Engineers](https://github.com/CAChemE/Python-Chemical-Engineers) ⭐ 94 | 🐛 0 | 🌐 Python | 📅 2016-09-27 - CAChemE
+  * [Python for Chemical Engineers](https://github.com/CAChemE/Python-Chemical-Engineers) ⭐ 95 | 🐛 0 | 🌐 Python | 📅 2016-09-27 - CAChemE
   * [Numerical Methods and Statistics](https://github.com/whitead/numerical_stats) ⭐ 67 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2020-09-01 - University of Rochester, Prof. Andrew White.
   * [ChEn-3170 Computational Methods in Chemical Engineering](https://github.com/dpploy/chen-3170) ⭐ 47 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2026-02-08 - UMass Lowell; Spring 2022; Prof. Valmor F. de Almeida.
   * [AI for Chemical Engineers](https://github.com/KaihangShi/AI-for-Chemical-Engineers_UB) ⭐ 44 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-03-16 - University of Buffalo, Prof. Kaihang Shi.
@@ -103,7 +103,7 @@ Please be respectful of the people who have created these resources. If you want
 
 ## Software and Packages
 
-* [Clapeyron.jl](https://github.com/ClapeyronThermo/Clapeyron.jl) ⭐ 293 | 🐛 62 | 🌐 Julia | 📅 2026-09-24 - Julia package for thermodynamic property calculations / equations of state.
+* [Clapeyron.jl](https://github.com/ClapeyronThermo/Clapeyron.jl) ⭐ 293 | 🐛 62 | 🌐 Julia | 📅 2026-09-25 - Julia package for thermodynamic property calculations / equations of state.
 * [Chemics](https://github.com/wigging/chemics) ⭐ 209 | 🐛 2 | 🌐 Python | 📅 2024-03-10 - Python package for chemistry and chemical engineering applications.
 * [pychemqt](https://github.com/jjgomera/pychemqt) ⭐ 180 | 🐛 7 | 🌐 Python | 📅 2026-09-11 - free software tool for calculation and design of unit operations in chemical engineering.
 * [OpSim](https://github.com/opsim/opsim) ⭐ 43 | 🐛 22 | 🌐 Pascal | 📅 2019-08-13 - open source Chemical Engineering Process Simulator with a user friendly drag-and-drop graphical user interface and an underlying high performance simulation engine.
@@ -137,7 +137,7 @@ People and organizations on GitHub who have multiple repositories related to che
 ## General Jupyter Education
 
 * [Teaching and Learning with Jupyter](https://jupyter4edu.github.io/jupyter-edu-book/)
-* [nbgrader](https://github.com/jupyter/nbgrader) ⭐ 1,372 | 🐛 301 | 🌐 Python | 📅 2026-09-13 - A system for assigning and grading Jupyter notebooks.
+* [nbgrader](https://github.com/jupyter/nbgrader) ⭐ 1,373 | 🐛 302 | 🌐 Python | 📅 2026-09-13 - A system for assigning and grading Jupyter notebooks.
 
 ## Miscellaneous
 
@@ -158,4 +158,4 @@ People and organizations on GitHub who have multiple repositories related to che
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
