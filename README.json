@@ -212,6 +212,27 @@
             },
             {
               "node_type": "item",
+              "title": "MLxChE: Intro to Machine Learning for Chemical Engineers",
+              "description": "University of the Philippines, Diliman; Prof. Karl Ezra Pilario",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Code Repository for ChE 197 and ChE 297, machine learning courses for Chemical Engineers at UP Diliman",
+                "homepage": null,
+                "id": 758368884,
+                "language": "Jupyter Notebook",
+                "license": "MIT",
+                "last_commit": "2026-02-06T02:39:52Z",
+                "open_issues": 0,
+                "owner": "kspilario",
+                "repo": "MLxChE",
+                "stars": 33,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T20:25:47.317Z"
+            },
+            {
+              "node_type": "item",
               "title": "Machine Learning for Molecular Engineering (ML4MolEng)",
               "description": "MIT; Prof. Connor Coley, Prof. Rafael Gomez-Bombarelli, Prof. Ernest Fraenkel, Prof. Joey Davis, Prof. Sergey Ovchinnikov",
               "children": [
@@ -248,27 +269,6 @@
                 "open_issues": 0,
                 "owner": "coleygroup",
                 "repo": "ML4MolEng",
-                "stars": 32,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T20:25:47.317Z"
-            },
-            {
-              "node_type": "item",
-              "title": "MLxChE: Intro to Machine Learning for Chemical Engineers",
-              "description": "University of the Philippines, Diliman; Prof. Karl Ezra Pilario",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Code Repository for ChE 197 and ChE 297, machine learning courses for Chemical Engineers at UP Diliman",
-                "homepage": null,
-                "id": 758368884,
-                "language": "Jupyter Notebook",
-                "license": "MIT",
-                "last_commit": "2026-02-06T02:39:52Z",
-                "open_issues": 0,
-                "owner": "kspilario",
-                "repo": "MLxChE",
                 "stars": 32,
                 "topics": []
               },
@@ -837,8 +837,8 @@
             "id": 267659508,
             "language": "Julia",
             "license": "MIT",
-            "last_commit": "2026-09-26T05:20:08Z",
-            "open_issues": 62,
+            "last_commit": "2026-09-27T05:05:51Z",
+            "open_issues": 57,
             "owner": "ClapeyronThermo",
             "repo": "Clapeyron.jl",
             "stars": 293,
@@ -1122,7 +1122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T13:23:46.291Z",
+    "last_updated": "2026-09-27T14:19:11.960Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of online chemical engineering education resources",
