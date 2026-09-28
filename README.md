@@ -103,7 +103,7 @@ Please be respectful of the people who have created these resources. If you want
 
 ## Software and Packages
 
-* [Clapeyron.jl](https://github.com/ClapeyronThermo/Clapeyron.jl) ⭐ 293 | 🐛 57 | 🌐 Julia | 📅 2026-09-27 - Julia package for thermodynamic property calculations / equations of state.
+* [Clapeyron.jl](https://github.com/ClapeyronThermo/Clapeyron.jl) ⭐ 293 | 🐛 57 | 🌐 Julia | 📅 2026-09-28 - Julia package for thermodynamic property calculations / equations of state.
 * [Chemics](https://github.com/wigging/chemics) ⭐ 209 | 🐛 2 | 🌐 Python | 📅 2024-03-10 - Python package for chemistry and chemical engineering applications.
 * [pychemqt](https://github.com/jjgomera/pychemqt) ⭐ 180 | 🐛 7 | 🌐 Python | 📅 2026-09-11 - free software tool for calculation and design of unit operations in chemical engineering.
 * [OpSim](https://github.com/opsim/opsim) ⭐ 43 | 🐛 22 | 🌐 Pascal | 📅 2019-08-13 - open source Chemical Engineering Process Simulator with a user friendly drag-and-drop graphical user interface and an underlying high performance simulation engine.
@@ -137,7 +137,7 @@ People and organizations on GitHub who have multiple repositories related to che
 ## General Jupyter Education
 
 * [Teaching and Learning with Jupyter](https://jupyter4edu.github.io/jupyter-edu-book/)
-* [nbgrader](https://github.com/jupyter/nbgrader) ⭐ 1,373 | 🐛 302 | 🌐 Python | 📅 2026-09-13 - A system for assigning and grading Jupyter notebooks.
+* [nbgrader](https://github.com/jupyter/nbgrader) ⭐ 1,373 | 🐛 303 | 🌐 Python | 📅 2026-09-13 - A system for assigning and grading Jupyter notebooks.
 
 ## Miscellaneous
 
@@ -154,8 +154,8 @@ People and organizations on GitHub who have multiple repositories related to che
 ## Related Awesome Lists
 
 * [awesome-python-chemistry](https://github.com/lmmentel/awesome-python-chemistry/) ⭐ 1,442 | 🐛 10 | 📅 2025-09-21
-* [awesome-cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics) ⭐ 887 | 🐛 36 | 📅 2024-03-15
+* [awesome-cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics) ⭐ 887 | 🐛 35 | 📅 2024-03-15
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
