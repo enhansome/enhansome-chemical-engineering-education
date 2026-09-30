@@ -749,7 +749,7 @@
                 "open_issues": 0,
                 "owner": "DDPSE",
                 "repo": "GT_DataDrivenPSE_Course",
-                "stars": 13,
+                "stars": 14,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:47.317Z"
@@ -837,8 +837,8 @@
             "id": 267659508,
             "language": "Julia",
             "license": "MIT",
-            "last_commit": "2026-09-28T05:04:08Z",
-            "open_issues": 57,
+            "last_commit": "2026-09-30T05:27:24Z",
+            "open_issues": 58,
             "owner": "ClapeyronThermo",
             "repo": "Clapeyron.jl",
             "stars": 293,
@@ -1103,7 +1103,7 @@
             "language": null,
             "license": null,
             "last_commit": "2024-03-15T00:55:18Z",
-            "open_issues": 35,
+            "open_issues": 34,
             "owner": "hsiaoyi0504",
             "repo": "awesome-cheminformatics",
             "stars": 887,
@@ -1122,7 +1122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T15:07:17.646Z",
+    "last_updated": "2026-09-30T15:22:08.720Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of online chemical engineering education resources",
