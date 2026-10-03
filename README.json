@@ -1064,7 +1064,7 @@
         {
           "node_type": "item",
           "title": "awesome-python-chemistry",
-          "description": null,
+          "description": "lmmentel/awesome-python-chemistry",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1093,7 +1093,7 @@
         {
           "node_type": "item",
           "title": "awesome-cheminformatics",
-          "description": null,
+          "description": "hsiaoyi0504/awesome-cheminformatics",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1122,7 +1122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T15:03:33.148Z",
+    "last_updated": "2026-10-03T04:36:56.381Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of online chemical engineering education resources",
