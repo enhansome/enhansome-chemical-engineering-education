@@ -94,6 +94,7 @@ Please be respectful of the people who have created these resources. If you want
 * [ASEE Chemical Engineering Division - Resources - Where to start?](http://ched.asee.org/resources/) - list of teaching resources.
 * [CACHE](https://cache.org/teaching-resources-center) - Computer Aids for Chemical Engineering Education teaching resource center.
 * [Chemical Engineering Guy](https://www.chemicalengineeringguy.com/) - website with paid online courses. Also has a [YouTube channel](https://www.youtube.com/@ChemicalEngineeringGuy).
+* [Chempirical](https://chempirical.com/tools/) - free browser calculators for fractional distillation (Fenske plates, azeotrope warnings), vapour pressure from NIST Antoine constants, boiling point at reduced pressure, and stoichiometry, with physical data for 48,000 compounds.
 * [LearnChemE](https://learncheme.com/) - extensive collection of screencasts, simulations, modules, virtual labs, etc. from the University of Colorado Boulder (also on [YouTube](https://www.youtube.com/@LearnChemE)).
 * [Learning Chemical Engineering](https://learnche.org/) - by Kevin Dunn, former professor at McMaster University.
 * [MATLAB Start to Finish](https://jacksonburns.github.io/MATLAB-Start-to-Finish/) - MATLAB-focused primer for undergraduate thermodynamics students by Jackson Burns and contributors.
@@ -154,8 +155,8 @@ People and organizations on GitHub who have multiple repositories related to che
 ## Related Awesome Lists
 
 * [awesome-python-chemistry](https://github.com/lmmentel/awesome-python-chemistry/) ⭐ 1,446 | 🐛 10 | 📅 2025-09-21
-* [awesome-cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics) ⭐ 888 | 🐛 34 | 📅 2024-03-15
+* [awesome-cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics) ⭐ 888 | 🐛 35 | 📅 2024-03-15
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._

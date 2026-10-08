@@ -1103,7 +1103,7 @@
             "language": null,
             "license": null,
             "last_commit": "2024-03-15T00:55:18Z",
-            "open_issues": 34,
+            "open_issues": 35,
             "owner": "hsiaoyi0504",
             "repo": "awesome-cheminformatics",
             "stars": 888,
@@ -1122,7 +1122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T15:47:56.490Z",
+    "last_updated": "2026-10-08T15:52:57.454Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of online chemical engineering education resources",
@@ -1130,11 +1130,11 @@
       "id": 651769960,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-06-05T15:34:01Z",
-      "open_issues": 8,
+      "last_commit": "2026-10-07T18:39:10Z",
+      "open_issues": 7,
       "owner": "kevingreenman",
       "repo": "awesome-chemical-engineering-education",
-      "stars": 210,
+      "stars": 211,
       "topics": [
         "awesome",
         "awesome-list",
@@ -1146,7 +1146,7 @@
         "python-chemistry"
       ]
     },
-    "original_repository_sha": "31a54f220ab31da3c71832f41e8347ce4fdd29d6",
+    "original_repository_sha": "19c5d5c88e05d0fff682dfd1ff3dd400ec47020e",
     "enhanced_repository": "enhansome/enhansome-chemical-engineering-education",
     "enhanced_repository_description": null,
     "title": "Awesome Chemical Engineering Education with stars"
