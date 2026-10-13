@@ -121,7 +121,7 @@
                 "open_issues": 0,
                 "owner": "CAChemE",
                 "repo": "Python-Chemical-Engineers",
-                "stars": 95,
+                "stars": 96,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:47.317Z"
@@ -837,7 +837,7 @@
             "id": 267659508,
             "language": "Julia",
             "license": "MIT",
-            "last_commit": "2026-10-11T23:55:58Z",
+            "last_commit": "2026-10-12T19:49:15Z",
             "open_issues": 60,
             "owner": "ClapeyronThermo",
             "repo": "Clapeyron.jl",
@@ -904,7 +904,7 @@
             "open_issues": 7,
             "owner": "jjgomera",
             "repo": "pychemqt",
-            "stars": 180,
+            "stars": 181,
             "topics": []
           },
           "first_seen": "2026-08-28T20:25:47.317Z"
@@ -1106,7 +1106,7 @@
             "open_issues": 35,
             "owner": "hsiaoyi0504",
             "repo": "awesome-cheminformatics",
-            "stars": 888,
+            "stars": 889,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1122,7 +1122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T18:14:11.482Z",
+    "last_updated": "2026-10-13T16:28:32.952Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of online chemical engineering education resources",
@@ -1134,7 +1134,7 @@
       "open_issues": 7,
       "owner": "kevingreenman",
       "repo": "awesome-chemical-engineering-education",
-      "stars": 213,
+      "stars": 214,
       "topics": [
         "awesome",
         "awesome-list",
