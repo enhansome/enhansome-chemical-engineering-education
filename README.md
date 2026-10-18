@@ -40,7 +40,7 @@ Please be respectful of the people who have created these resources. If you want
   * [06-325 Numerical Methods and ML for ChE](https://github.com/ulissigroup/F22-06-325) ⭐ 8 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2022-10-13 - Carnegie Mellon University, Prof. Zachary Ulissi, Fall 2022.
   * [06-681 Data Visualization and Modeling](https://github.com/jkitchin/s22-06681) ⭐ 5 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2021-12-19 - Carnegie Mellon University, Prof. John Kitchin, Spring 2022.
 * **Thermodynamics**
-  * [CBE60553 - Advanced Chemical Engineering Thermodynamics](https://github.com/wmfschneider/CBE60553) ⭐ 25 | 🐛 0 | 🌐 HTML | 📅 2017-12-09 - University of Notre Dame, Prof. William Schneider.
+  * [CBE60553 - Advanced Chemical Engineering Thermodynamics](https://github.com/wmfschneider/CBE60553) ⭐ 26 | 🐛 0 | 🌐 HTML | 📅 2017-12-09 - University of Notre Dame, Prof. William Schneider.
   * [CBE710 - Advanced Thermodynamics for Chemical Engineers](https://cersonsky-lab.github.io/cbe710-notes/intro.html#) - University of Wisconsin, Profs. Reid van Lehn, Matt Gebbie, Rose K. Cersonsky
 * **Fluid Mechanics**
   * None yet...please [contribute](CONTRIBUTING.md) if you know of any!
@@ -104,7 +104,7 @@ Please be respectful of the people who have created these resources. If you want
 
 ## Software and Packages
 
-* [Clapeyron.jl](https://github.com/ClapeyronThermo/Clapeyron.jl) ⭐ 296 | 🐛 59 | 🌐 Julia | 📅 2026-10-17 - Julia package for thermodynamic property calculations / equations of state.
+* [Clapeyron.jl](https://github.com/ClapeyronThermo/Clapeyron.jl) ⭐ 296 | 🐛 60 | 🌐 Julia | 📅 2026-10-18 - Julia package for thermodynamic property calculations / equations of state.
 * [Chemics](https://github.com/wigging/chemics) ⭐ 209 | 🐛 2 | 🌐 Python | 📅 2024-03-10 - Python package for chemistry and chemical engineering applications.
 * [pychemqt](https://github.com/jjgomera/pychemqt) ⭐ 181 | 🐛 7 | 🌐 Python | 📅 2026-09-11 - free software tool for calculation and design of unit operations in chemical engineering.
 * [OpSim](https://github.com/opsim/opsim) ⭐ 43 | 🐛 22 | 🌐 Pascal | 📅 2019-08-13 - open source Chemical Engineering Process Simulator with a user friendly drag-and-drop graphical user interface and an underlying high performance simulation engine.
@@ -154,9 +154,9 @@ People and organizations on GitHub who have multiple repositories related to che
 
 ## Related Awesome Lists
 
-* [awesome-python-chemistry](https://github.com/lmmentel/awesome-python-chemistry/) ⭐ 1,447 | 🐛 11 | 📅 2025-09-21
+* [awesome-python-chemistry](https://github.com/lmmentel/awesome-python-chemistry/) ⭐ 1,449 | 🐛 11 | 📅 2025-09-21
 * [awesome-cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics) ⭐ 890 | 🐛 35 | 📅 2024-03-15
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
