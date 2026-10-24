@@ -837,11 +837,11 @@
             "id": 267659508,
             "language": "Julia",
             "license": "MIT",
-            "last_commit": "2026-10-23T06:27:17Z",
+            "last_commit": "2026-10-23T20:15:11Z",
             "open_issues": 60,
             "owner": "ClapeyronThermo",
             "repo": "Clapeyron.jl",
-            "stars": 297,
+            "stars": 298,
             "topics": [
               "cosmo-sac",
               "equation-of-state",
@@ -1106,7 +1106,7 @@
             "open_issues": 34,
             "owner": "hsiaoyi0504",
             "repo": "awesome-cheminformatics",
-            "stars": 892,
+            "stars": 893,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1122,7 +1122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T13:50:29.641Z",
+    "last_updated": "2026-10-24T12:56:19.758Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of online chemical engineering education resources",
