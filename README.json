@@ -837,8 +837,8 @@
             "id": 267659508,
             "language": "Julia",
             "license": "MIT",
-            "last_commit": "2026-10-26T05:36:09Z",
-            "open_issues": 60,
+            "last_commit": "2026-10-27T07:01:22Z",
+            "open_issues": 63,
             "owner": "ClapeyronThermo",
             "repo": "Clapeyron.jl",
             "stars": 298,
@@ -1122,7 +1122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T15:29:59.039Z",
+    "last_updated": "2026-10-27T14:56:19.754Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of online chemical engineering education resources",
@@ -1134,7 +1134,7 @@
       "open_issues": 8,
       "owner": "kevingreenman",
       "repo": "awesome-chemical-engineering-education",
-      "stars": 217,
+      "stars": 218,
       "topics": [
         "awesome",
         "awesome-list",
