@@ -205,7 +205,7 @@
                 "open_issues": 0,
                 "owner": "KaihangShi",
                 "repo": "AI-for-Chemical-Engineers_UB",
-                "stars": 44,
+                "stars": 45,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:47.317Z"
@@ -838,7 +838,7 @@
             "language": "Julia",
             "license": "MIT",
             "last_commit": "2026-11-02T04:01:05Z",
-            "open_issues": 66,
+            "open_issues": 68,
             "owner": "ClapeyronThermo",
             "repo": "Clapeyron.jl",
             "stars": 299,
@@ -1077,7 +1077,7 @@
             "open_issues": 12,
             "owner": "lmmentel",
             "repo": "awesome-python-chemistry",
-            "stars": 1451,
+            "stars": 1450,
             "topics": [
               "atomistic-simulations",
               "chemistry",
@@ -1122,7 +1122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T18:51:17.561Z",
+    "last_updated": "2026-11-03T16:37:30.134Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of online chemical engineering education resources",
