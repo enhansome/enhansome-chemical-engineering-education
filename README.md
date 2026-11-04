@@ -70,7 +70,7 @@ Please be respectful of the people who have created these resources. If you want
   * [Safety and Chemical Engineering Education (SAChE) from AIChE](https://www.aiche.org/ccps/education/safety-and-chemical-engineering-education-sache-certificate-program)
   * [SAFEChE - Process Safety Across the Chemical Engineering Curriculum](https://safeche.engin.umich.edu/) - University of Michigan, originally developed by Prof. H. Scott Fogler, now led by Dr. Christopher Barr.
 * **Other**
-  * [CBE40455 Process Operations](https://github.com/jckantor/CBE40455) ⭐ 45 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-05-14 - University of Notre Dame, Prof. Jeffrey Kantor. Previous version from [2020](https://github.com/jckantor/CBE40455-2020) ⭐ 8 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2020-11-06. Other [version](https://github.com/jckantor/cbe60455) ⭐ 2 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2022-12-08 also available.
+  * [CBE40455 Process Operations](https://github.com/jckantor/CBE40455) ⭐ 46 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-05-14 - University of Notre Dame, Prof. Jeffrey Kantor. Previous version from [2020](https://github.com/jckantor/CBE40455-2020) ⭐ 9 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2020-11-06. Other [version](https://github.com/jckantor/cbe60455) ⭐ 2 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2022-12-08 also available.
   * [CBE60547 Computational Chemistry](https://github.com/wmfschneider/CBE60547) ⭐ 20 | 🐛 0 | 🌐 Mathematica | 📅 2019-12-09 - University of Notre Dame, Prof. William Schneider. Previous versions available from [2015](https://github.com/wfschneidergroup/computational-chemistry) ⭐ 1 | 🐛 0 | 🌐 TeX | 📅 2015-03-24, [2017](https://github.com/wfschneidergroup/CC_Fall_2017) ⭐ 1 | 🐛 0 | 🌐 Mathematica | 📅 2017-12-05, and [2019](https://github.com/wfschneidergroup/CBE60547) ⭐ 0 | 🐛 0 | 📅 2019-09-05.
   * [Data Driven Process Systems Engineering](https://github.com/DDPSE/GT_DataDrivenPSE_Course) ⭐ 14 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-04-27 - Georgia Tech, Prof. Fani Boukouvala.
   * [CBE30324 Physical Chemistry for Chemical Engineers](https://github.com/wmfschneider/CHE30324) ⭐ 3 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-05-03 - University of Notre Dame, Prof. William Schneider. [Additional version](https://github.com/wfschneidergroup/CHE30324) ⭐ 0 | 🐛 0 | 📅 2020-01-13 also available.
@@ -104,7 +104,7 @@ Please be respectful of the people who have created these resources. If you want
 
 ## Software and Packages
 
-* [Clapeyron.jl](https://github.com/ClapeyronThermo/Clapeyron.jl) ⭐ 299 | 🐛 68 | 🌐 Julia | 📅 2026-11-02 - Julia package for thermodynamic property calculations / equations of state.
+* [Clapeyron.jl](https://github.com/ClapeyronThermo/Clapeyron.jl) ⭐ 299 | 🐛 61 | 🌐 Julia | 📅 2026-11-04 - Julia package for thermodynamic property calculations / equations of state.
 * [Chemics](https://github.com/wigging/chemics) ⭐ 209 | 🐛 2 | 🌐 Python | 📅 2024-03-10 - Python package for chemistry and chemical engineering applications.
 * [pychemqt](https://github.com/jjgomera/pychemqt) ⭐ 181 | 🐛 7 | 🌐 Python | 📅 2026-09-11 - free software tool for calculation and design of unit operations in chemical engineering.
 * [OpSim](https://github.com/opsim/opsim) ⭐ 43 | 🐛 22 | 🌐 Pascal | 📅 2019-08-13 - open source Chemical Engineering Process Simulator with a user friendly drag-and-drop graphical user interface and an underlying high performance simulation engine.
@@ -138,7 +138,7 @@ People and organizations on GitHub who have multiple repositories related to che
 ## General Jupyter Education
 
 * [Teaching and Learning with Jupyter](https://jupyter4edu.github.io/jupyter-edu-book/)
-* [nbgrader](https://github.com/jupyter/nbgrader) ⭐ 1,370 | 🐛 293 | 🌐 Python | 📅 2026-11-03 - A system for assigning and grading Jupyter notebooks.
+* [nbgrader](https://github.com/jupyter/nbgrader) ⭐ 1,370 | 🐛 292 | 🌐 Python | 📅 2026-11-03 - A system for assigning and grading Jupyter notebooks.
 
 ## Miscellaneous
 
@@ -155,8 +155,8 @@ People and organizations on GitHub who have multiple repositories related to che
 ## Related Awesome Lists
 
 * [awesome-python-chemistry](https://github.com/lmmentel/awesome-python-chemistry/) ⭐ 1,450 | 🐛 12 | 📅 2025-09-21
-* [awesome-cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics) ⭐ 895 | 🐛 36 | 📅 2024-03-15
+* [awesome-cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics) ⭐ 893 | 🐛 36 | 📅 2024-03-15
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
