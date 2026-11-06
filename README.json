@@ -121,7 +121,7 @@
                 "open_issues": 0,
                 "owner": "CAChemE",
                 "repo": "Python-Chemical-Engineers",
-                "stars": 96,
+                "stars": 95,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:47.317Z"
@@ -707,7 +707,7 @@
                 "open_issues": 0,
                 "owner": "jckantor",
                 "repo": "CBE40455",
-                "stars": 46,
+                "stars": 47,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:47.317Z"
@@ -837,11 +837,11 @@
             "id": 267659508,
             "language": "Julia",
             "license": "MIT",
-            "last_commit": "2026-11-05T06:01:43Z",
+            "last_commit": "2026-11-06T04:48:48Z",
             "open_issues": 60,
             "owner": "ClapeyronThermo",
             "repo": "Clapeyron.jl",
-            "stars": 299,
+            "stars": 300,
             "topics": [
               "cosmo-sac",
               "equation-of-state",
@@ -1077,7 +1077,7 @@
             "open_issues": 12,
             "owner": "lmmentel",
             "repo": "awesome-python-chemistry",
-            "stars": 1450,
+            "stars": 1452,
             "topics": [
               "atomistic-simulations",
               "chemistry",
@@ -1106,7 +1106,7 @@
             "open_issues": 36,
             "owner": "hsiaoyi0504",
             "repo": "awesome-cheminformatics",
-            "stars": 894,
+            "stars": 895,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1122,7 +1122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T16:52:27.768Z",
+    "last_updated": "2026-11-06T16:20:11.151Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of online chemical engineering education resources",
