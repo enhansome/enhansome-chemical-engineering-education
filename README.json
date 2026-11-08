@@ -838,7 +838,7 @@
             "language": "Julia",
             "license": "MIT",
             "last_commit": "2026-11-07T07:49:41Z",
-            "open_issues": 60,
+            "open_issues": 62,
             "owner": "ClapeyronThermo",
             "repo": "Clapeyron.jl",
             "stars": 300,
@@ -873,7 +873,7 @@
             "open_issues": 2,
             "owner": "wigging",
             "repo": "chemics",
-            "stars": 209,
+            "stars": 208,
             "topics": [
               "biomass",
               "chemical-engineering",
@@ -1122,7 +1122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T15:12:16.116Z",
+    "last_updated": "2026-11-08T15:36:37.622Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of online chemical engineering education resources",
