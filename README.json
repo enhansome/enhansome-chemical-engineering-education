@@ -837,11 +837,11 @@
             "id": 267659508,
             "language": "Julia",
             "license": "MIT",
-            "last_commit": "2026-11-07T07:49:41Z",
-            "open_issues": 62,
+            "last_commit": "2026-11-09T04:17:21Z",
+            "open_issues": 61,
             "owner": "ClapeyronThermo",
             "repo": "Clapeyron.jl",
-            "stars": 300,
+            "stars": 301,
             "topics": [
               "cosmo-sac",
               "equation-of-state",
@@ -873,7 +873,7 @@
             "open_issues": 2,
             "owner": "wigging",
             "repo": "chemics",
-            "stars": 208,
+            "stars": 209,
             "topics": [
               "biomass",
               "chemical-engineering",
@@ -1106,7 +1106,7 @@
             "open_issues": 36,
             "owner": "hsiaoyi0504",
             "repo": "awesome-cheminformatics",
-            "stars": 895,
+            "stars": 896,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1122,7 +1122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T15:36:37.622Z",
+    "last_updated": "2026-11-09T19:12:54.617Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of online chemical engineering education resources",
@@ -1131,10 +1131,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-10-07T18:39:10Z",
-      "open_issues": 10,
+      "open_issues": 11,
       "owner": "kevingreenman",
       "repo": "awesome-chemical-engineering-education",
-      "stars": 218,
+      "stars": 219,
       "topics": [
         "awesome",
         "awesome-list",
