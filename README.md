@@ -26,10 +26,10 @@ Please be respectful of the people who have created these resources. If you want
   * [CHBE220 Founding Principles in Chemical and Biological Engineering I](https://github.com/OpenChemE/CHBE220-OER-Dev) ⭐ 4 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2020-08-10 - University of British Columbia.
   * [CBE20255 - Introduction to Chemical Engineering](https://github.com/wmfschneider/CBE20255) ⭐ 1 | 🐛 0 | 🌐 TeX | 📅 2020-12-07 - University of Notre Dame, Prof. William Schneider. Additional [version](https://github.com/jckantor/CBE20255) ⭐ 198 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2019-06-28 available from Prof. Jeffrey Kantor.
 * **Computational / Numerical / Math Methods / AI / ML**
-  * [Python for Chemical Engineers](https://github.com/CAChemE/Python-Chemical-Engineers) ⭐ 95 | 🐛 0 | 🌐 Python | 📅 2016-09-27 - CAChemE
+  * [Python for Chemical Engineers](https://github.com/CAChemE/Python-Chemical-Engineers) ⭐ 96 | 🐛 0 | 🌐 Python | 📅 2016-09-27 - CAChemE
   * [Numerical Methods and Statistics](https://github.com/whitead/numerical_stats) ⭐ 67 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2020-09-01 - University of Rochester, Prof. Andrew White.
   * [ChEn-3170 Computational Methods in Chemical Engineering](https://github.com/dpploy/chen-3170) ⭐ 47 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2026-02-08 - UMass Lowell; Spring 2022; Prof. Valmor F. de Almeida.
-  * [AI for Chemical Engineers](https://github.com/KaihangShi/AI-for-Chemical-Engineers_UB) ⭐ 45 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-03-16 - University of Buffalo, Prof. Kaihang Shi.
+  * [AI for Chemical Engineers](https://github.com/KaihangShi/AI-for-Chemical-Engineers_UB) ⭐ 46 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-03-16 - University of Buffalo, Prof. Kaihang Shi.
   * [Machine Learning for Molecular Engineering (ML4MolEng)](https://github.com/coleygroup/ML4MolEng) ⭐ 33 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-05-14 - MIT; Prof. Connor Coley, Prof. Rafael Gomez-Bombarelli, Prof. Ernest Fraenkel, Prof. Joey Davis, Prof. Sergey Ovchinnikov
     * **Older iterations:** [Spring 2021](https://github.com/wwang2/ML4MolEng) ⭐ 15 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2021-05-15, [Spring 2022](https://github.com/vikram-sundar/ML4MolEng_Spring2022) ⭐ 11 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2022-05-02, [Spring 2023](https://github.com/YitongTseo/ML4MolEng_Spring2023) ⭐ 2 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-01-23
   * [MLxChE: Intro to Machine Learning for Chemical Engineers](https://github.com/kspilario/MLxChE) ⭐ 33 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-02-06 - University of the Philippines, Diliman; Prof. Karl Ezra Pilario
@@ -104,8 +104,8 @@ Please be respectful of the people who have created these resources. If you want
 
 ## Software and Packages
 
-* [Clapeyron.jl](https://github.com/ClapeyronThermo/Clapeyron.jl) ⭐ 301 | 🐛 62 | 🌐 Julia | 📅 2026-11-09 - Julia package for thermodynamic property calculations / equations of state.
-* [Chemics](https://github.com/wigging/chemics) ⭐ 209 | 🐛 2 | 🌐 Python | 📅 2024-03-10 - Python package for chemistry and chemical engineering applications.
+* [Clapeyron.jl](https://github.com/ClapeyronThermo/Clapeyron.jl) ⭐ 302 | 🐛 62 | 🌐 Julia | 📅 2026-11-09 - Julia package for thermodynamic property calculations / equations of state.
+* [Chemics](https://github.com/wigging/chemics) ⭐ 210 | 🐛 2 | 🌐 Python | 📅 2024-03-10 - Python package for chemistry and chemical engineering applications.
 * [pychemqt](https://github.com/jjgomera/pychemqt) ⭐ 181 | 🐛 7 | 🌐 Python | 📅 2026-09-11 - free software tool for calculation and design of unit operations in chemical engineering.
 * [OpSim](https://github.com/opsim/opsim) ⭐ 43 | 🐛 22 | 🌐 Pascal | 📅 2019-08-13 - open source Chemical Engineering Process Simulator with a user friendly drag-and-drop graphical user interface and an underlying high performance simulation engine.
 * [ChemEng Solved](https://github.com/asanet/chemeng-solved) ⭐ 26 | 🐛 1 | 🌐 MATLAB | 📅 2026-02-26 - Classic problems in chemical engineering solved with matlab.
@@ -159,4 +159,4 @@ People and organizations on GitHub who have multiple repositories related to che
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._

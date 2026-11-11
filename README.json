@@ -121,7 +121,7 @@
                 "open_issues": 0,
                 "owner": "CAChemE",
                 "repo": "Python-Chemical-Engineers",
-                "stars": 95,
+                "stars": 96,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:47.317Z"
@@ -205,7 +205,7 @@
                 "open_issues": 0,
                 "owner": "KaihangShi",
                 "repo": "AI-for-Chemical-Engineers_UB",
-                "stars": 45,
+                "stars": 46,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:47.317Z"
@@ -841,7 +841,7 @@
             "open_issues": 62,
             "owner": "ClapeyronThermo",
             "repo": "Clapeyron.jl",
-            "stars": 301,
+            "stars": 302,
             "topics": [
               "cosmo-sac",
               "equation-of-state",
@@ -873,7 +873,7 @@
             "open_issues": 2,
             "owner": "wigging",
             "repo": "chemics",
-            "stars": 209,
+            "stars": 210,
             "topics": [
               "biomass",
               "chemical-engineering",
@@ -1122,7 +1122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T16:37:17.612Z",
+    "last_updated": "2026-11-11T16:38:23.601Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of online chemical engineering education resources",
