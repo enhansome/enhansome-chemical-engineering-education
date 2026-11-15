@@ -1122,7 +1122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T15:21:51.890Z",
+    "last_updated": "2026-11-15T15:53:35.144Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of online chemical engineering education resources",
@@ -1131,10 +1131,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-10-07T18:39:10Z",
-      "open_issues": 11,
+      "open_issues": 12,
       "owner": "kevingreenman",
       "repo": "awesome-chemical-engineering-education",
-      "stars": 219,
+      "stars": 220,
       "topics": [
         "awesome",
         "awesome-list",
