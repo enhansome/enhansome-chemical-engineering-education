@@ -104,9 +104,9 @@ Please be respectful of the people who have created these resources. If you want
 
 ## Software and Packages
 
-* [Clapeyron.jl](https://github.com/ClapeyronThermo/Clapeyron.jl) ⭐ 302 | 🐛 64 | 🌐 Julia | 📅 2026-11-16 - Julia package for thermodynamic property calculations / equations of state.
+* [Clapeyron.jl](https://github.com/ClapeyronThermo/Clapeyron.jl) ⭐ 302 | 🐛 61 | 🌐 Julia | 📅 2026-11-18 - Julia package for thermodynamic property calculations / equations of state.
 * [Chemics](https://github.com/wigging/chemics) ⭐ 210 | 🐛 2 | 🌐 Python | 📅 2024-03-10 - Python package for chemistry and chemical engineering applications.
-* [pychemqt](https://github.com/jjgomera/pychemqt) ⭐ 181 | 🐛 7 | 🌐 Python | 📅 2026-09-11 - free software tool for calculation and design of unit operations in chemical engineering.
+* [pychemqt](https://github.com/jjgomera/pychemqt) ⭐ 182 | 🐛 7 | 🌐 Python | 📅 2026-09-11 - free software tool for calculation and design of unit operations in chemical engineering.
 * [OpSim](https://github.com/opsim/opsim) ⭐ 43 | 🐛 22 | 🌐 Pascal | 📅 2019-08-13 - open source Chemical Engineering Process Simulator with a user friendly drag-and-drop graphical user interface and an underlying high performance simulation engine.
 * [ChemEng Solved](https://github.com/asanet/chemeng-solved) ⭐ 26 | 🐛 1 | 🌐 MATLAB | 📅 2026-02-26 - Classic problems in chemical engineering solved with matlab.
 * [Process Dynamics Engine](https://github.com/OpenChemE/Process-Dynamics-Engine) ⭐ 25 | 🐛 5 | 🌐 Python | 📅 2019-02-16 - online, real-time simulator for process control models described by transfer functions or state space representations.
@@ -159,4 +159,4 @@ People and organizations on GitHub who have multiple repositories related to che
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
