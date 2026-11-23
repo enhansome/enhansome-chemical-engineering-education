@@ -728,7 +728,7 @@
                 "open_issues": 0,
                 "owner": "wmfschneider",
                 "repo": "CBE60547",
-                "stars": 20,
+                "stars": 21,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:25:47.317Z"
@@ -841,7 +841,7 @@
             "open_issues": 63,
             "owner": "ClapeyronThermo",
             "repo": "Clapeyron.jl",
-            "stars": 303,
+            "stars": 304,
             "topics": [
               "cosmo-sac",
               "equation-of-state",
@@ -1122,7 +1122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T16:40:20.688Z",
+    "last_updated": "2026-11-23T20:36:12.087Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of online chemical engineering education resources",
@@ -1134,7 +1134,7 @@
       "open_issues": 13,
       "owner": "kevingreenman",
       "repo": "awesome-chemical-engineering-education",
-      "stars": 221,
+      "stars": 223,
       "topics": [
         "awesome",
         "awesome-list",
