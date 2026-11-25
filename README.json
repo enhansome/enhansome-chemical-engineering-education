@@ -837,7 +837,7 @@
             "id": 267659508,
             "language": "Julia",
             "license": "MIT",
-            "last_commit": "2026-11-24T06:47:25Z",
+            "last_commit": "2026-11-25T05:58:46Z",
             "open_issues": 63,
             "owner": "ClapeyronThermo",
             "repo": "Clapeyron.jl",
@@ -1077,7 +1077,7 @@
             "open_issues": 12,
             "owner": "lmmentel",
             "repo": "awesome-python-chemistry",
-            "stars": 1459,
+            "stars": 1460,
             "topics": [
               "atomistic-simulations",
               "chemistry",
@@ -1122,7 +1122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T19:43:51.095Z",
+    "last_updated": "2026-11-25T18:51:07.370Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of online chemical engineering education resources",
@@ -1134,7 +1134,7 @@
       "open_issues": 13,
       "owner": "kevingreenman",
       "repo": "awesome-chemical-engineering-education",
-      "stars": 223,
+      "stars": 225,
       "topics": [
         "awesome",
         "awesome-list",
