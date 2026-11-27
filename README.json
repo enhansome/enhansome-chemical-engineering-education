@@ -837,8 +837,8 @@
             "id": 267659508,
             "language": "Julia",
             "license": "MIT",
-            "last_commit": "2026-11-26T06:31:55Z",
-            "open_issues": 64,
+            "last_commit": "2026-11-27T16:37:57Z",
+            "open_issues": 62,
             "owner": "ClapeyronThermo",
             "repo": "Clapeyron.jl",
             "stars": 304,
@@ -1122,7 +1122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T18:39:41.368Z",
+    "last_updated": "2026-11-27T18:28:50.096Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of online chemical engineering education resources",
